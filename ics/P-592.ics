@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Mayo IDWeek//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Effect of Prior Use of Antibiotics on BioFire FilmArray Pneu
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:P-592@mayo-idweek
+DTSTAMP:20261014T120000Z
+DTSTART:20261022T161500Z
+DTEND:20261022T173000Z
+SUMMARY:P-592: Effect of Prior Use of Antibiotics on BioFire FilmArray Pneu
+ monia Panel Results
+LOCATION:Poster Hall B-C\, board P-592 · IDWeek 2026
+DESCRIPTION:Mayo: Shaikha D. Al-Shokri\, William Harmsen\, Paschalis Vergid
+ is\, Kirstin Kooda\, Robin Patel\, Abinash Virk\nhttps://dwchal.github.io/
+ mayo-idweek/#/item/P-592
+URL:https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID
+ =839629
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:P-592: Effect of Prior Use of Antibiotics on BioFire FilmArray 
+ Pneumonia Panel Results
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

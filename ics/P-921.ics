@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Mayo IDWeek//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Diverging HIV Incidence Trajectories Among Youth (15–29 Year
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:P-921@mayo-idweek
+DTSTAMP:20261014T120000Z
+DTSTART:20261023T161500Z
+DTEND:20261023T173000Z
+SUMMARY:P-921: Diverging HIV Incidence Trajectories Among Youth (15–29 Ye
+ ars) in Asia-Pacific\, 1990–2023: A Joinpoint Regression Analysis of the
+  Global Burden of Disease 2023 Study
+LOCATION:Virtual (IDWeek app/site) · IDWeek 2026
+DESCRIPTION:Mayo: Ashesh Das\nhttps://dwchal.github.io/mayo-idweek/#/item/P
+ -921
+URL:https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID
+ =838931
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:P-921: Diverging HIV Incidence Trajectories Among Youth (15–2
+ 9 Years) in Asia-Pacific\, 1990–2023: A Joinpoint Regression Analysis of
+  the Global Burden of Disease 2023 Study
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

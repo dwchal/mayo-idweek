@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Mayo IDWeek//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:The Epidemiological Transition of Unsafe Sex-Attributable Di
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:T086@mayo-idweek
+DTSTAMP:20261014T120000Z
+DTSTART:20261024T164000Z
+DTEND:20261024T164500Z
+SUMMARY:The Epidemiological Transition of Unsafe Sex-Attributable Disease i
+ n Sub-Saharan Africa: A Comparative Global Burden of Disease Analysis of C
+ ancer and AIDS (1990–2023)
+LOCATION:RF Arena 1 · IDWeek 2026
+DESCRIPTION:Mayo: Ashesh Das\nAlso poster P-252\nhttps://dwchal.github.io/m
+ ayo-idweek/#/item/T086
+URL:https://idweek2026.eventscribe.net/fsPopup.asp?Mode=presInfo&Presentati
+ onID=1894918
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:The Epidemiological Transition of Unsafe Sex-Attributable Disea
+ se in Sub-Saharan Africa: A Comparative Global Burden of Disease Analysis 
+ of Cancer and AIDS (1990–2023)
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

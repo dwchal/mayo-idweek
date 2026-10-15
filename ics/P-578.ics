@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Mayo IDWeek//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:The Virome-Gut-Brain Axis: Reactivated Viruses\, Phage Shifts
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:P-578@mayo-idweek
+DTSTAMP:20261014T120000Z
+DTSTART:20261024T161500Z
+DTEND:20261024T173000Z
+SUMMARY:P-578: The Virome-Gut-Brain Axis: Reactivated Viruses\, Phage Shift
+ s\, and the New Frontier in Neurodegenerative Disease
+LOCATION:Poster Hall B-C\, board P-578 · IDWeek 2026
+DESCRIPTION:Mayo: Ashesh Das\nhttps://dwchal.github.io/mayo-idweek/#/item/P
+ -578
+URL:https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID
+ =838112
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:P-578: The Virome-Gut-Brain Axis: Reactivated Viruses\, Phage S
+ hifts\, and the New Frontier in Neurodegenerative Disease
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Mayo IDWeek//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:The Biofilm Barrier Strategies With Phage Therapy - Bacterio
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:T042@mayo-idweek
+DTSTAMP:20261014T120000Z
+DTSTART:20261023T120000Z
+DTEND:20261023T130000Z
+SUMMARY:The Biofilm Barrier Strategies With Phage Therapy - Bacteriophage T
+ herapy in Orthopedics Infection and Phage Therapy in Multidrug-Resistant P
+ seudomonas aeruginosa Infection in Cystic Fibrosis
+LOCATION:150 AB · IDWeek 2026
+DESCRIPTION:Mayo: Robin Patel\, Gina Suh\nMayo talk 8:30 AM–9:00 AM: Bact
+ eriophage Therapy in Orthopedics Infection (Gina A. Suh)\nhttps://dwchal.g
+ ithub.io/mayo-idweek/#/item/T042
+URL:https://idweek2026.eventscribe.net/fsPopup.asp?Mode=sessionInfo&Present
+ ationID=1841067
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:The Biofilm Barrier Strategies With Phage Therapy - Bacteriopha
+ ge Therapy in Orthopedics Infection and Phage Therapy in Multidrug-Resista
+ nt Pseudomonas aeruginosa Infection in Cystic Fibrosis
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

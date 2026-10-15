@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Mayo IDWeek//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:We Got Your Back: Managing Postoperative Spinal Implant Infe
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:T060@mayo-idweek
+DTSTAMP:20261014T120000Z
+DTSTART:20261024T143000Z
+DTEND:20261024T154500Z
+SUMMARY:We Got Your Back: Managing Postoperative Spinal Implant Infections
+LOCATION:151 AB · IDWeek 2026
+DESCRIPTION:Mayo: Aaron Tande\nMayo talk 11:20 AM–11:45 AM: Recognizing a
+ nd Defining Postoperative Spine Infection: A Diagnostic Framework Integrat
+ ing Clinical Criteria\, Biomarkers and Advanced Imaging (Aaron J. Tande)\n
+ https://dwchal.github.io/mayo-idweek/#/item/T060
+URL:https://idweek2026.eventscribe.net/fsPopup.asp?Mode=sessionInfo&Present
+ ationID=1825406
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:We Got Your Back: Managing Postoperative Spinal Implant Infecti
+ ons
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

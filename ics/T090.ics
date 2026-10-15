@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Mayo IDWeek//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Clinical Performance of Assays to Predict Ciprofloxacin Resi
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:T090@mayo-idweek
+DTSTAMP:20261014T120000Z
+DTSTART:20261024T183000Z
+DTEND:20261024T184500Z
+SUMMARY:Clinical Performance of Assays to Predict Ciprofloxacin Resistance 
+ in Neisseria gonorrhoeae: Results from the MASTERMIND-RING Study
+LOCATION:206 · IDWeek 2026
+DESCRIPTION:Mayo: Robin Patel\nhttps://dwchal.github.io/mayo-idweek/#/item/
+ T090
+URL:https://idweek2026.eventscribe.net/fsPopup.asp?Mode=presInfo&Presentati
+ onID=1894721
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Clinical Performance of Assays to Predict Ciprofloxacin Resista
+ nce in Neisseria gonorrhoeae: Results from the MASTERMIND-RING Study
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

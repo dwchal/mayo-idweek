@@ -1,0 +1,7042 @@
+{
+ "generated": "2026-10-14",
+ "source": "Mayo_at_IDWeek_2026.pdf",
+ "timeZone": "America/New_York",
+ "items": [
+  {
+   "kind": "talk",
+   "type": "Workshop Talk",
+   "day": "2026-10-20",
+   "start": "2026-10-20T15:00:00-04:00",
+   "end": "2026-10-20T15:35:00-04:00",
+   "room": "102 AB",
+   "roles": [
+    {
+     "role": "Workshop Speaker",
+     "people": [
+      {
+       "name": "Patricia Simner",
+       "site": "RST",
+       "personId": "patricia-simner"
+      }
+     ]
+    }
+   ],
+   "session": "PW11 - Clinical Diagnostics",
+   "note": "Pre-meeting workshop · separate registration",
+   "title": "Modernizing AST: What's New in Phenotypic and Genotypic Antimicrobial Susceptibility Testing",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=presInfo&PresentationID=1877261",
+   "id": "T000"
+  },
+  {
+   "kind": "talk",
+   "type": "Workshop Talk",
+   "day": "2026-10-20",
+   "start": "2026-10-20T16:10:00-04:00",
+   "end": "2026-10-20T16:50:00-04:00",
+   "room": "102 AB",
+   "roles": [
+    {
+     "role": "Workshop Moderator",
+     "people": [
+      {
+       "name": "Kimberly Hanson"
+      },
+      {
+       "name": "David C. Gaston",
+       "affiliation": "Vanderbilt University Medical Center"
+      }
+     ]
+    },
+    {
+     "role": "Workshop Speaker",
+     "people": [
+      {
+       "name": "Richard E. Rothman",
+       "affiliation": "John Hopkins University"
+      },
+      {
+       "name": "Luke Blagdon Snell",
+       "affiliation": "National Health Service"
+      },
+      {
+       "name": "Charles Y. Chiu",
+       "affiliation": "UCSF"
+      },
+      {
+       "name": "Patricia Simner",
+       "site": "RST",
+       "personId": "patricia-simner"
+      },
+      {
+       "name": "Sarah B. Doernberg",
+       "affiliation": "University of California, San Francisco"
+      }
+     ]
+    }
+   ],
+   "session": "PW11 - Clinical Diagnostics",
+   "note": "Pre-meeting workshop · separate registration",
+   "title": "Expert Panel Discussion & Audience Q&A",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=presInfo&PresentationID=1877267",
+   "id": "T001"
+  },
+  {
+   "kind": "talk",
+   "type": "Workshop Talk",
+   "day": "2026-10-21",
+   "start": "2026-10-21T11:05:00-04:00",
+   "end": "2026-10-21T12:30:00-04:00",
+   "room": "149 AB",
+   "roles": [
+    {
+     "role": "Workshop Speaker",
+     "people": [
+      {
+       "name": "Raymund R. Razonable",
+       "site": "RST",
+       "personId": "raymund-razonable"
+      },
+      {
+       "name": "Maricar F. Malinis",
+       "affiliation": "Vanderbilt Health"
+      }
+     ]
+    }
+   ],
+   "session": "PW04 - Fellows' Day Workshop",
+   "note": "Pre-meeting workshop · separate registration",
+   "title": "Careers in Transplant/Oncology ID",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=presInfo&PresentationID=1841317",
+   "id": "T002"
+  },
+  {
+   "kind": "talk",
+   "type": "Late-Breaker",
+   "day": "2026-10-22",
+   "start": "2026-10-22T10:30:00-04:00",
+   "end": "2026-10-22T10:42:00-04:00",
+   "room": "206",
+   "roles": [
+    {
+     "role": "Presenting Author",
+     "people": [
+      {
+       "name": "Kevin L. Winthrop",
+       "affiliation": "OHSU-PSU School of Public Health"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "Timothy R. Aksamit",
+       "site": "RST",
+       "personId": "timothy-aksamit"
+      }
+     ],
+     "additional": 13
+    }
+   ],
+   "session": "Late Breaking Abstracts: Antimicrobials",
+   "title": "Amikacin and Macrolide Resistance in Patients With Newly Diagnosed Mycobacterium avium Complex Lung Disease: Results From ENCORE",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=presInfo&PresentationID=1916721",
+   "id": "T003"
+  },
+  {
+   "kind": "talk",
+   "type": "Interactive Session",
+   "day": "2026-10-22",
+   "start": "2026-10-22T10:30:00-04:00",
+   "end": "2026-10-22T11:45:00-04:00",
+   "room": "147 AB",
+   "roles": [
+    {
+     "role": "Interactive Moderator",
+     "people": [
+      {
+       "name": "Emily Spivak",
+       "affiliation": "University of Utah Health"
+      },
+      {
+       "name": "Jason Newland",
+       "affiliation": "Nationwide Children's Hospital"
+      }
+     ]
+    },
+    {
+     "role": "Panelist",
+     "people": [
+      {
+       "name": "Sarah Parker",
+       "affiliation": "University of Colorado School of Medicine"
+      },
+      {
+       "name": "Sena Sayood",
+       "affiliation": "Washington University School of Medicine"
+      },
+      {
+       "name": "Kira Frappa",
+       "affiliation": "Colorado Childrens"
+      },
+      {
+       "name": "Drew Dickinson",
+       "site": "AZ",
+       "personId": "drew-dickinson"
+      }
+     ]
+    }
+   ],
+   "title": "A Day Combining the Stewardship Pager and Handshake Rounds",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=sessionInfo&PresentationID=1841083",
+   "id": "T004"
+  },
+  {
+   "kind": "talk",
+   "type": "Oral Abstract",
+   "day": "2026-10-22",
+   "start": "2026-10-22T11:15:00-04:00",
+   "end": "2026-10-22T11:30:00-04:00",
+   "room": "209 ABC",
+   "roles": [
+    {
+     "role": "Presenting Author",
+     "people": [
+      {
+       "name": "Shaikha D. Al-Shokri",
+       "site": "RST",
+       "personId": "shaikha-al-shokri"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "Khalid Benkhadra",
+       "site": "AZ",
+       "personId": "khalid-benkhadra"
+      },
+      {
+       "name": "Julian Maamari",
+       "site": "RST",
+       "personId": "julian-maamari"
+      },
+      {
+       "name": "Leslie Hassett",
+       "site": "RST",
+       "personId": "leslie-hassett"
+      },
+      {
+       "name": "Mouhand Mohamed",
+       "site": "RST",
+       "personId": "mouhand-mohamed"
+      },
+      {
+       "name": "Omar M. Abu Saleh",
+       "site": "RST",
+       "personId": "omar-abu-saleh"
+      }
+     ]
+    }
+   ],
+   "session": "You Can't Handle the Poop! Defining C. difficile Risks and Prevention Strategies",
+   "title": "Efficacy and Safety of Oral Vancomycin Prophylaxis with a Post-Antibiotic Tail Strategy for the Prevention of Clostridioides difficile Infection: A Systematic Review and Meta-Analysis",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=presInfo&PresentationID=1894776",
+   "id": "T005"
+  },
+  {
+   "kind": "poster",
+   "board": "P-11",
+   "day": "2026-10-22",
+   "start": "2026-10-22T12:15:00-04:00",
+   "end": "2026-10-22T13:30:00-04:00",
+   "room": "Poster Hall B-C",
+   "roles": [
+    {
+     "role": "Presenter",
+     "people": [
+      {
+       "name": "Melissa J. Karau",
+       "site": "RST",
+       "personId": "melissa-karau"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "Robin Patel",
+       "site": "RST",
+       "personId": "robin-patel"
+      },
+      {
+       "name": "Nicholas Bedard",
+       "site": "RST",
+       "personId": "nicholas-bedard"
+      }
+     ]
+    }
+   ],
+   "category": "NOVEL AGENTS",
+   "title": "Phage K Prevention of Methicillin-Resistant Staphylococcus aureus Biofilm Formation on Murine Titanium Tibial Prostheses",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID=839638",
+   "id": "P-11"
+  },
+  {
+   "kind": "poster",
+   "board": "P-30",
+   "day": "2026-10-22",
+   "start": "2026-10-22T12:15:00-04:00",
+   "end": "2026-10-22T13:30:00-04:00",
+   "room": "Poster Hall B-C",
+   "roles": [
+    {
+     "role": "Presenter",
+     "people": [
+      {
+       "name": "Patricia Simner",
+       "site": "RST",
+       "personId": "patricia-simner"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "Matthew Robinson"
+      },
+      {
+       "name": "Shaoli Basu"
+      },
+      {
+       "name": "Priti Kambli"
+      },
+      {
+       "name": "Mrunmayi Naik"
+      },
+      {
+       "name": "Sweety Singh Singh"
+      },
+      {
+       "name": "Susan Rodrigues"
+      },
+      {
+       "name": "Rajesh Karyakarte"
+      },
+      {
+       "name": "Camilla Rodrigues"
+      },
+      {
+       "name": "Shahzad Mirza"
+      }
+     ]
+    }
+   ],
+   "category": "NOVEL AGENTS",
+   "title": "Comparative In Vitro Activity of Novel Antimicrobials Against Carbapenem-Resistant Escherichia coli and Klebsiella pneumoniae from Three Sites in India",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID=839622",
+   "id": "P-30"
+  },
+  {
+   "kind": "poster",
+   "board": "P-65",
+   "day": "2026-10-22",
+   "start": "2026-10-22T12:15:00-04:00",
+   "end": "2026-10-22T13:30:00-04:00",
+   "room": "Poster Hall B-C",
+   "roles": [
+    {
+     "role": "Presenter",
+     "people": [
+      {
+       "name": "Kemar O. Barrett",
+       "site": "RST",
+       "personId": "kemar-barrett"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "Emily Puumala",
+       "site": "RST",
+       "personId": "emily-puumala"
+      },
+      {
+       "name": "Christina G. O'Connor",
+       "site": "RST",
+       "personId": "christina-oconnor"
+      },
+      {
+       "name": "Nicolynn Cole",
+       "site": "RST",
+       "personId": "nicolynn-cole"
+      },
+      {
+       "name": "Patricia Simner",
+       "site": "RST",
+       "personId": "patricia-simner"
+      },
+      {
+       "name": "Audrey N. Schuetz",
+       "site": "RST",
+       "personId": "audrey-schuetz"
+      },
+      {
+       "name": "Omar M. Abu Saleh",
+       "site": "RST",
+       "personId": "omar-abu-saleh"
+      }
+     ]
+    }
+   ],
+   "category": "RESISTANCE MECHANISMS",
+   "title": "Retrospective analysis of carbapenem resistant Pseudomonas aeruginosa from a tertiary hospital and reference laboratory, 2023-2025",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID=839592",
+   "id": "P-65"
+  },
+  {
+   "kind": "poster",
+   "board": "P-67",
+   "day": "2026-10-22",
+   "start": "2026-10-22T12:15:00-04:00",
+   "end": "2026-10-22T13:30:00-04:00",
+   "room": "Poster Hall B-C",
+   "roles": [
+    {
+     "role": "Presenter",
+     "people": [
+      {
+       "name": "FNU Aakriti",
+       "affiliation": "Medical College Baroda"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "Mahnoor Gelani"
+      },
+      {
+       "name": "Faiza Khalid"
+      },
+      {
+       "name": "Riyakumari Patel"
+      },
+      {
+       "name": "Muthuramalingam Kamala Parthiban"
+      },
+      {
+       "name": "Elena Alupei"
+      },
+      {
+       "name": "Aditi Agarwal"
+      },
+      {
+       "name": "Manisha Das"
+      },
+      {
+       "name": "Amina Akram",
+       "site": "RST",
+       "personId": "amina-akram"
+      },
+      {
+       "name": "Hafiz Muhammad Moaaz Sajid"
+      },
+      {
+       "name": "Iman Khan"
+      },
+      {
+       "name": "Ashesh Das",
+       "site": "RST",
+       "personId": "ashesh-das"
+      }
+     ]
+    }
+   ],
+   "category": "RESISTANCE MECHANISMS",
+   "title": "The Scar and the Soil: How Munitions and Heavy Metals Could Drive Hyper-Mutation in War Zones",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID=839689",
+   "id": "P-67"
+  },
+  {
+   "kind": "poster",
+   "board": "P-90",
+   "day": "2026-10-22",
+   "start": "2026-10-22T12:15:00-04:00",
+   "end": "2026-10-22T13:30:00-04:00",
+   "room": "Poster Hall B-C",
+   "roles": [
+    {
+     "role": "Presenter",
+     "people": [
+      {
+       "name": "Zaurez Khan",
+       "affiliation": "Baylor Scott & White Health"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "Mahnoor Gelani"
+      },
+      {
+       "name": "FNU Aakriti"
+      },
+      {
+       "name": "Faiza Khalid"
+      },
+      {
+       "name": "Yousra Iftequar"
+      },
+      {
+       "name": "Mohammed El Shabrawi"
+      },
+      {
+       "name": "Elena Alupei"
+      },
+      {
+       "name": "Atiqa Noor"
+      },
+      {
+       "name": "Noor Ul Haq"
+      },
+      {
+       "name": "Arwaa Chaudhry"
+      },
+      {
+       "name": "Iman Khan"
+      },
+      {
+       "name": "Ashesh Das",
+       "site": "RST",
+       "personId": "ashesh-das"
+      }
+     ]
+    }
+   ],
+   "category": "RESISTANCE MECHANISMS",
+   "title": "The Silent Second Front: Multidrug-Resistant Trauma Infections in Collapsed Health Systems",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID=839693",
+   "id": "P-90"
+  },
+  {
+   "kind": "poster",
+   "board": "P-98",
+   "day": "2026-10-22",
+   "start": "2026-10-22T12:15:00-04:00",
+   "end": "2026-10-22T13:30:00-04:00",
+   "room": "Poster Hall B-C",
+   "roles": [
+    {
+     "role": "Presenter",
+     "people": [
+      {
+       "name": "Austin B. Auyeung",
+       "site": "RST",
+       "personId": "austin-auyeung"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "Sofia Molina Garcia",
+       "site": "RST",
+       "personId": "sofia-molina-garcia"
+      },
+      {
+       "name": "Nicolynn Cole",
+       "site": "RST",
+       "personId": "nicolynn-cole"
+      },
+      {
+       "name": "Christina G. O'Connor",
+       "site": "RST",
+       "personId": "christina-oconnor"
+      },
+      {
+       "name": "Audrey N. Schuetz",
+       "site": "RST",
+       "personId": "audrey-schuetz"
+      },
+      {
+       "name": "Patricia Simner",
+       "site": "RST",
+       "personId": "patricia-simner"
+      },
+      {
+       "name": "Omar M. Abu Saleh",
+       "site": "RST",
+       "personId": "omar-abu-saleh"
+      }
+     ]
+    }
+   ],
+   "category": "TREATMENT OF ANTIMICROBIAL-RESISTANT INFECTIONS",
+   "title": "Cefiderocol Susceptibility Profiles and Clinical Outcomes in Multidrug-Resistant Gram-Negative Organisms",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID=839576",
+   "id": "P-98"
+  },
+  {
+   "kind": "poster",
+   "board": "P-110",
+   "day": "2026-10-22",
+   "start": "2026-10-22T12:15:00-04:00",
+   "end": "2026-10-22T13:30:00-04:00",
+   "room": "Poster Hall B-C",
+   "roles": [
+    {
+     "role": "Presenter",
+     "people": [
+      {
+       "name": "Tatjana Gavrancic",
+       "site": "FL",
+       "personId": "tatjana-gavrancic"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "Kassandra Stoddard"
+      },
+      {
+       "name": "Muhammad Waqas Tahir",
+       "site": "FL",
+       "personId": "muhammad-waqas-tahir"
+      },
+      {
+       "name": "Melissa Cortes",
+       "site": "FL",
+       "personId": "melissa-cortes"
+      },
+      {
+       "name": "Carrie Schultz",
+       "site": "FL",
+       "personId": "carrie-schultz"
+      },
+      {
+       "name": "Ricardo Pagan",
+       "site": "FL",
+       "personId": "ricardo-pagan"
+      },
+      {
+       "name": "Aleksandra Murawska Baptista",
+       "site": "FL",
+       "personId": "aleksandra-murawska-baptista"
+      },
+      {
+       "name": "Libardo Rueda Prada",
+       "site": "FL",
+       "personId": "libardo-rueda-prada"
+      },
+      {
+       "name": "Marko Gorasevic"
+      },
+      {
+       "name": "Igor Dumic",
+       "site": "MCHS",
+       "personId": "igor-dumic"
+      }
+     ]
+    }
+   ],
+   "category": "TREATMENT OF ANTIMICROBIAL-RESISTANT INFECTIONS",
+   "title": "Clinical Characteristics and Outcomes of Clostridium ramosum Bacteremia: An Institutional Experience",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID=839686",
+   "id": "P-110"
+  },
+  {
+   "kind": "poster",
+   "board": "P-114",
+   "day": "2026-10-22",
+   "start": "2026-10-22T12:15:00-04:00",
+   "end": "2026-10-22T13:30:00-04:00",
+   "room": "Poster Hall B-C",
+   "roles": [
+    {
+     "role": "Presenter",
+     "people": [
+      {
+       "name": "Kellie Arensman Hannan",
+       "site": "RST",
+       "personId": "kellie-arensman-hannan"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "Austin B. Auyeung",
+       "site": "RST",
+       "personId": "austin-auyeung"
+      },
+      {
+       "name": "Christina R. Cox",
+       "site": "RST",
+       "personId": "christina-cox"
+      },
+      {
+       "name": "Maria Alyssa Y. Policarpio",
+       "site": "RST",
+       "personId": "maria-alyssa-policarpio"
+      },
+      {
+       "name": "Ryan W. W. Stevens",
+       "site": "RST",
+       "personId": "ryan-stevens"
+      },
+      {
+       "name": "Omar M. Abu Saleh",
+       "site": "RST",
+       "personId": "omar-abu-saleh"
+      }
+     ]
+    }
+   ],
+   "category": "TREATMENT OF ANTIMICROBIAL-RESISTANT INFECTIONS",
+   "title": "Clinical and Microbiology Characteristics of Myroides Species: A 15-year, Multicenter Experience",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID=839706",
+   "id": "P-114"
+  },
+  {
+   "kind": "poster",
+   "board": "P-129",
+   "day": "2026-10-22",
+   "start": "2026-10-22T12:15:00-04:00",
+   "end": "2026-10-22T13:30:00-04:00",
+   "room": "Poster Hall B-C",
+   "roles": [
+    {
+     "role": "Presenter",
+     "people": [
+      {
+       "name": "Guyu Li",
+       "affiliation": "Children's Hospital Los Angeles/ University of Southern California"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "Tsung-Li Lin",
+       "site": "RST",
+       "personId": "tsung-li-lin"
+      },
+      {
+       "name": "Sebastian Herren",
+       "site": "RST",
+       "personId": "sebastian-herren"
+      },
+      {
+       "name": "Melissa J. Karau",
+       "site": "RST",
+       "personId": "melissa-karau"
+      },
+      {
+       "name": "Robin Patel",
+       "site": "RST",
+       "personId": "robin-patel"
+      }
+     ]
+    }
+   ],
+   "category": "TREATMENT OF ANTIMICROBIAL-RESISTANT INFECTIONS",
+   "title": "Preclinical Assessment of Phage K Therapy Strategies for Treatment of Methicillin-Resistant Staphylococcus epidermidis Foreign Body-Associated Osteomyelitis Requiring Revision Surgery in Rats",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID=839509",
+   "id": "P-129"
+  },
+  {
+   "kind": "poster",
+   "board": "P-138",
+   "day": "2026-10-22",
+   "start": "2026-10-22T12:15:00-04:00",
+   "end": "2026-10-22T13:30:00-04:00",
+   "room": "Poster Hall B-C",
+   "roles": [
+    {
+     "role": "Presenter",
+     "people": [
+      {
+       "name": "Farzad Pourghazi",
+       "site": "RST",
+       "personId": "farzad-pourghazi"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "Amin Alavi"
+      },
+      {
+       "name": "Georges Baaklini"
+      },
+      {
+       "name": "Ahmad Nassr",
+       "site": "RST",
+       "personId": "ahmad-nassr"
+      },
+      {
+       "name": "Brett Freedman",
+       "site": "RST",
+       "personId": "brett-freedman"
+      },
+      {
+       "name": "Takahiro Matsuo"
+      },
+      {
+       "name": "Aaron J. Tande",
+       "site": "RST",
+       "personId": "aaron-tande"
+      },
+      {
+       "name": "Elie F. Berbari",
+       "site": "RST",
+       "personId": "elie-berbari"
+      }
+     ]
+    }
+   ],
+   "category": "TREATMENT OF ANTIMICROBIAL-RESISTANT INFECTIONS",
+   "title": "Management Strategies and Clinical Outcomes of Methicillin Resistant Staphylococcus Aureus Native Vertebral Osteomyelitis: A Systematic Review and Meta-Analysis",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID=839652",
+   "id": "P-138"
+  },
+  {
+   "kind": "poster",
+   "board": "P-149",
+   "day": "2026-10-22",
+   "start": "2026-10-22T12:15:00-04:00",
+   "end": "2026-10-22T13:30:00-04:00",
+   "room": "Poster Hall B-C",
+   "roles": [
+    {
+     "role": "Presenter",
+     "people": [
+      {
+       "name": "Sima L. Sharara",
+       "affiliation": "Johns Hopkins Hospital"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "Akshita Singh"
+      },
+      {
+       "name": "Pranita Tamma"
+      },
+      {
+       "name": "Patricia Simner",
+       "site": "RST",
+       "personId": "patricia-simner"
+      },
+      {
+       "name": "Eili Klein"
+      },
+      {
+       "name": "Sara E. Cosgrove"
+      }
+     ]
+    }
+   ],
+   "category": "TREATMENT OF ANTIMICROBIAL-RESISTANT INFECTIONS",
+   "title": "Predicting ESBL-E Colonization at ICU Admission: A Clinical Risk Score to Guide Empiric Antibiotic Therapy",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID=839595",
+   "id": "P-149"
+  },
+  {
+   "kind": "poster",
+   "board": "P-592",
+   "day": "2026-10-22",
+   "start": "2026-10-22T12:15:00-04:00",
+   "end": "2026-10-22T13:30:00-04:00",
+   "room": "Poster Hall B-C",
+   "roles": [
+    {
+     "role": "Presenter",
+     "people": [
+      {
+       "name": "Shaikha D. Al-Shokri",
+       "site": "RST",
+       "personId": "shaikha-al-shokri"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "William Harmsen",
+       "site": "RST",
+       "personId": "william-harmsen"
+      },
+      {
+       "name": "Paschalis Vergidis",
+       "site": "RST",
+       "personId": "paschalis-vergidis"
+      },
+      {
+       "name": "Kirstin Kooda",
+       "site": "RST",
+       "personId": "kirstin-kooda"
+      },
+      {
+       "name": "Robin Patel",
+       "site": "RST",
+       "personId": "robin-patel"
+      },
+      {
+       "name": "Abinash Virk",
+       "site": "RST",
+       "personId": "abinash-virk"
+      }
+     ]
+    }
+   ],
+   "category": "DIAGNOSTICS: BACTERIOLOGY/MYCOBACTERIOLOGY",
+   "title": "Effect of Prior Use of Antibiotics on BioFire FilmArray Pneumonia Panel Results",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID=839629",
+   "id": "P-592"
+  },
+  {
+   "kind": "poster",
+   "board": "P-613",
+   "day": "2026-10-22",
+   "start": "2026-10-22T12:15:00-04:00",
+   "end": "2026-10-22T13:30:00-04:00",
+   "room": "Poster Hall B-C",
+   "roles": [
+    {
+     "role": "Presenter",
+     "people": [
+      {
+       "name": "Melissa Kerkelis",
+       "site": "RST",
+       "personId": "melissa-kerkelis"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "Nilaya Nishad Mairal"
+      },
+      {
+       "name": "Omar M. Abu Saleh",
+       "site": "RST",
+       "personId": "omar-abu-saleh"
+      }
+     ]
+    }
+   ],
+   "category": "DIAGNOSTICS: BACTERIOLOGY/MYCOBACTERIOLOGY",
+   "title": "Clinical Outcomes and Diagnostic Characteristics of Whipple’s Disease: A 20-Year Retrospective Review from a Tertiary Academic Medical Center",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID=839525",
+   "id": "P-613"
+  },
+  {
+   "kind": "poster",
+   "board": "P-614",
+   "day": "2026-10-22",
+   "start": "2026-10-22T12:15:00-04:00",
+   "end": "2026-10-22T13:30:00-04:00",
+   "room": "Poster Hall B-C",
+   "roles": [
+    {
+     "role": "Presenter",
+     "people": [
+      {
+       "name": "Kimberly Hanson",
+       "affiliation": "University of Utah"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "Patricia Simner",
+       "site": "RST",
+       "personId": "patricia-simner"
+      },
+      {
+       "name": "Robin Patel",
+       "site": "RST",
+       "personId": "robin-patel"
+      }
+     ],
+     "additional": 15
+    }
+   ],
+   "category": "DIAGNOSTICS: BACTERIOLOGY/MYCOBACTERIOLOGY",
+   "title": "Diagnostic Accuracy of Novel Microorganism- and Host-Directed Tests for Ventilator-Associated Pneumonia: Results from the MASTERMIND-Pneumonia Study",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID=839529",
+   "id": "P-614"
+  },
+  {
+   "kind": "poster",
+   "board": "P-629",
+   "day": "2026-10-22",
+   "start": "2026-10-22T12:15:00-04:00",
+   "end": "2026-10-22T13:30:00-04:00",
+   "room": "Poster Hall B-C",
+   "roles": [
+    {
+     "role": "Presenter",
+     "people": [
+      {
+       "name": "Mohamad Shieb",
+       "site": "RST",
+       "personId": "mohamad-shieb"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "Guyu Li"
+      },
+      {
+       "name": "Elizabeth H. Ristagno",
+       "site": "RST",
+       "personId": "elizabeth-ristagno"
+      },
+      {
+       "name": "Sidney Seiwert",
+       "site": "RST",
+       "personId": "sidney-seiwert"
+      },
+      {
+       "name": "Juan Cespedes Pacheco",
+       "site": "RST",
+       "personId": "juan-cespedes-pacheco"
+      },
+      {
+       "name": "Nancy Wengenack",
+       "site": "RST",
+       "personId": "nancy-wengenack"
+      },
+      {
+       "name": "Christina R. Cox",
+       "site": "RST",
+       "personId": "christina-cox"
+      },
+      {
+       "name": "Nipunie S. Rajapakse",
+       "site": "RST",
+       "personId": "nipunie-rajapakse"
+      }
+     ]
+    }
+   ],
+   "category": "DIAGNOSTICS: BACTERIOLOGY/MYCOBACTERIOLOGY",
+   "title": "Diagnostic Yield and Impact of Intraoperative Mycobacterial Cultures in Pediatric Patients: A 5-Year Single-Center Retrospective Study",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID=839691",
+   "id": "P-629"
+  },
+  {
+   "kind": "poster",
+   "board": "P-670",
+   "day": "2026-10-22",
+   "start": "2026-10-22T12:15:00-04:00",
+   "end": "2026-10-22T13:30:00-04:00",
+   "room": "Poster Hall B-C",
+   "roles": [
+    {
+     "role": "Presenter",
+     "people": [
+      {
+       "name": "Willie M. Johnson",
+       "site": "RST",
+       "personId": "willie-johnson"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "Madiha Fida",
+       "site": "RST",
+       "personId": "madiha-fida"
+      },
+      {
+       "name": "Douglas Challener",
+       "site": "RST",
+       "personId": "douglas-challener"
+      },
+      {
+       "name": "Kaylianna M. Dellangelo",
+       "site": "RST",
+       "personId": "kaylianna-dellangelo"
+      },
+      {
+       "name": "Omar M. Abu Saleh",
+       "site": "RST",
+       "personId": "omar-abu-saleh"
+      },
+      {
+       "name": "Bobbi S. Pritt",
+       "site": "RST",
+       "personId": "bobbi-pritt"
+      }
+     ]
+    }
+   ],
+   "category": "DIAGNOSTICS: PARASITOLOGY",
+   "title": "Clinical Characteristics, Management, and Outcomes of Babesiosis in the Upper Midwest: A 20 Year Retrospective Cohort Study",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID=839462",
+   "id": "P-670"
+  },
+  {
+   "kind": "poster",
+   "board": "P-684",
+   "day": "2026-10-22",
+   "start": "2026-10-22T12:15:00-04:00",
+   "end": "2026-10-22T13:30:00-04:00",
+   "room": "Poster Hall B-C",
+   "roles": [
+    {
+     "role": "Presenter",
+     "people": [
+      {
+       "name": "David Bayless",
+       "site": "RST",
+       "personId": "david-bayless"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "Paschalis Vergidis",
+       "site": "RST",
+       "personId": "paschalis-vergidis"
+      },
+      {
+       "name": "Nancy Wengenack",
+       "site": "RST",
+       "personId": "nancy-wengenack"
+      },
+      {
+       "name": "Jack W. McHugh",
+       "site": "RST",
+       "personId": "jack-mchugh"
+      }
+     ]
+    }
+   ],
+   "category": "DIAGNOSTICS: MYCOLOGY",
+   "title": "Clinical Features and Impact of Fungal/Mycobacterial Blood Cultures in Contemporary Practice",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID=839649",
+   "id": "P-684"
+  },
+  {
+   "kind": "poster",
+   "board": "P-709",
+   "day": "2026-10-22",
+   "start": "2026-10-22T12:15:00-04:00",
+   "end": "2026-10-22T13:30:00-04:00",
+   "room": "Poster Hall B-C",
+   "roles": [
+    {
+     "role": "Presenter",
+     "people": [
+      {
+       "name": "Sarwat Khalil",
+       "affiliation": "Baylor College of Medicine"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "Nischal Ranganath",
+       "site": "RST",
+       "personId": "nischal-ranganath"
+      },
+      {
+       "name": "Supavit Chesdachai",
+       "site": "RST",
+       "personId": "supavit-chesdachai"
+      },
+      {
+       "name": "Raymund R. Razonable",
+       "site": "RST",
+       "personId": "raymund-razonable"
+      }
+     ],
+     "additional": 36
+    }
+   ],
+   "category": "DIAGNOSTICS: MYCOLOGY",
+   "title": "Use of mcfDNA in Diagnosis of Fungal Infections in Solid Organ Transplant Recipients: Interim Analysis from the MGENiSIS Registry",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID=839676",
+   "id": "P-709"
+  },
+  {
+   "kind": "poster",
+   "board": "P-710",
+   "day": "2026-10-22",
+   "start": "2026-10-22T12:15:00-04:00",
+   "end": "2026-10-22T13:30:00-04:00",
+   "room": "Poster Hall B-C",
+   "roles": [
+    {
+     "role": "Presenter",
+     "people": [
+      {
+       "name": "Zahra Sohani",
+       "site": "RST",
+       "personId": "zahra-sohani"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "Jack W. McHugh",
+       "site": "RST",
+       "personId": "jack-mchugh"
+      },
+      {
+       "name": "Sharon Deml",
+       "site": "RST",
+       "personId": "sharon-deml"
+      },
+      {
+       "name": "Nancy Wengenack",
+       "site": "RST",
+       "personId": "nancy-wengenack"
+      },
+      {
+       "name": "Omar M. Abu Saleh",
+       "site": "RST",
+       "personId": "omar-abu-saleh"
+      }
+     ]
+    }
+   ],
+   "category": "DIAGNOSTICS: MYCOLOGY",
+   "title": "Species Distribution and Antifungal Susceptibility Patterns of Rare Yeasts",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID=839650",
+   "id": "P-710"
+  },
+  {
+   "kind": "poster",
+   "board": "P-711",
+   "day": "2026-10-22",
+   "start": "2026-10-22T12:15:00-04:00",
+   "end": "2026-10-22T13:30:00-04:00",
+   "room": "Poster Hall B-C",
+   "roles": [
+    {
+     "role": "Presenter",
+     "people": [
+      {
+       "name": "Irina Kasarskis",
+       "affiliation": "Centers for Disease Control and Prevention"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "Rita Igwilo-Alaneme",
+       "site": "RST",
+       "personId": "rita-igwilo-alaneme"
+      },
+      {
+       "name": "Omar M. Abu Saleh",
+       "site": "RST",
+       "personId": "omar-abu-saleh"
+      },
+      {
+       "name": "Paschalis Vergidis",
+       "site": "RST",
+       "personId": "paschalis-vergidis"
+      }
+     ],
+     "additional": 14
+    }
+   ],
+   "category": "DIAGNOSTICS: MYCOLOGY",
+   "title": "Demographic and Clinical Characteristics of Patients with Sporotrichosis in Seven Medical Centers, United States",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID=839598",
+   "id": "P-711"
+  },
+  {
+   "kind": "poster",
+   "board": "P-716",
+   "day": "2026-10-22",
+   "start": "2026-10-22T12:15:00-04:00",
+   "end": "2026-10-22T13:30:00-04:00",
+   "room": "Poster Hall B-C",
+   "roles": [
+    {
+     "role": "Presenter",
+     "people": [
+      {
+       "name": "Tina Gronquist",
+       "site": "RST",
+       "personId": "tina-gronquist"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "Vaille Swenson",
+       "site": "RST",
+       "personId": "vaille-swenson"
+      },
+      {
+       "name": "Patricia Simner",
+       "site": "RST",
+       "personId": "patricia-simner"
+      }
+     ]
+    }
+   ],
+   "category": "DIAGNOSTICS: TYPING/SEQUENCING",
+   "title": "Evaluation of Long-Read 16S/ITS rRNA Next-Generation Sequencing from Sterile Sources",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID=839474",
+   "id": "P-716"
+  },
+  {
+   "kind": "poster",
+   "board": "P-759",
+   "day": "2026-10-22",
+   "start": "2026-10-22T12:15:00-04:00",
+   "end": "2026-10-22T13:30:00-04:00",
+   "room": "Poster Hall B-C",
+   "roles": [
+    {
+     "role": "Presenter",
+     "people": [
+      {
+       "name": "Sarwat Khalil",
+       "affiliation": "Baylor College of Medicine"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "Nischal Ranganath",
+       "site": "RST",
+       "personId": "nischal-ranganath"
+      },
+      {
+       "name": "Supavit Chesdachai",
+       "site": "RST",
+       "personId": "supavit-chesdachai"
+      },
+      {
+       "name": "Raymund R. Razonable",
+       "site": "RST",
+       "personId": "raymund-razonable"
+      }
+     ],
+     "additional": 37
+    }
+   ],
+   "category": "NEW DIAGNOSTICS",
+   "title": "Impact of Diagnostic Stewardship of Plasma microbial cell-free DNA testing in evaluation of Fever of Unknown Origin in Solid Organ Transplant Recipients: Interim analysis of The mGENiSIS Registry",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID=839674",
+   "id": "P-759"
+  },
+  {
+   "kind": "poster",
+   "board": "P-760",
+   "day": "2026-10-22",
+   "start": "2026-10-22T12:15:00-04:00",
+   "end": "2026-10-22T13:30:00-04:00",
+   "room": "Poster Hall B-C",
+   "roles": [
+    {
+     "role": "Presenter",
+     "people": [
+      {
+       "name": "M. Rizwan Sohail",
+       "affiliation": "Baylor College of Medicine"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "Nischal Ranganath",
+       "site": "RST",
+       "personId": "nischal-ranganath"
+      },
+      {
+       "name": "Raymund R. Razonable",
+       "site": "RST",
+       "personId": "raymund-razonable"
+      }
+     ],
+     "additional": 40
+    }
+   ],
+   "category": "NEW DIAGNOSTICS",
+   "title": "From Pathogen Detection to Significance: Clinical Impact of Plasma Microbial Cell Free DNA Testing in Care of Solid Organ Transplant Recipients Presenting with Suspected Central Nervous System Infections — The mGENiSIS Registry",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID=839675",
+   "id": "P-760"
+  },
+  {
+   "kind": "poster",
+   "board": "P-1234",
+   "day": "2026-10-22",
+   "start": "2026-10-22T12:15:00-04:00",
+   "end": "2026-10-22T13:30:00-04:00",
+   "room": "Poster Hall B-C",
+   "roles": [
+    {
+     "role": "Presenter",
+     "people": [
+      {
+       "name": "Shaikha D. Al-Shokri",
+       "site": "RST",
+       "personId": "shaikha-al-shokri"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "Peter Martin",
+       "site": "RST",
+       "personId": "peter-martin"
+      },
+      {
+       "name": "Christina G. O'Connor",
+       "site": "RST",
+       "personId": "christina-oconnor"
+      },
+      {
+       "name": "Tanner Johnson",
+       "site": "RST",
+       "personId": "tanner-johnson"
+      },
+      {
+       "name": "Abinash Virk",
+       "site": "RST",
+       "personId": "abinash-virk"
+      },
+      {
+       "name": "Douglas Challener",
+       "site": "RST",
+       "personId": "douglas-challener"
+      }
+     ]
+    }
+   ],
+   "category": "HOME HEALTH/OPAT",
+   "title": "DIAMONDS: An AI-Driven Risk Stratification Tool for Personalized OPAT Monitoring – Development and Real-World Evaluation",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID=839248",
+   "id": "P-1234"
+  },
+  {
+   "kind": "poster",
+   "board": "P-1267",
+   "day": "2026-10-22",
+   "start": "2026-10-22T12:15:00-04:00",
+   "end": "2026-10-22T13:30:00-04:00",
+   "room": "Poster Hall B-C",
+   "roles": [
+    {
+     "role": "Presenter",
+     "people": [
+      {
+       "name": "Hayden Mitteer",
+       "site": "AZ",
+       "personId": "hayden-mitteer"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "Drew T. Dickinson",
+       "site": "AZ",
+       "personId": "drew-dickinson"
+      },
+      {
+       "name": "Dan Ilges",
+       "site": "AZ",
+       "personId": "dan-ilges"
+      }
+     ]
+    }
+   ],
+   "category": "QUALITY IMPROVEMENT",
+   "title": "Evaluation of an Inpatient Pharmacy-Led Posaconazole Therapeutic Drug Monitoring Program",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID=839235",
+   "id": "P-1267"
+  },
+  {
+   "kind": "poster",
+   "board": "P-1288",
+   "day": "2026-10-22",
+   "start": "2026-10-22T12:15:00-04:00",
+   "end": "2026-10-22T13:30:00-04:00",
+   "room": "Poster Hall B-C",
+   "roles": [
+    {
+     "role": "Presenter",
+     "people": [
+      {
+       "name": "Karen Lecea del Angel",
+       "affiliation": "Tec de Monterrey"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "Sofia Molina Garcia",
+       "site": "RST",
+       "personId": "sofia-molina-garcia"
+      },
+      {
+       "name": "Julio D. Molina Gamboa"
+      }
+     ]
+    }
+   ],
+   "category": "ID WORKFORCE/VALUE OF ID",
+   "title": "Exposure Is Not Enough: Why Medical Trainees Do (and Don’t) Choose Infectious Diseases",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID=839249",
+   "id": "P-1288"
+  },
+  {
+   "kind": "poster",
+   "board": "P-1418",
+   "day": "2026-10-22",
+   "start": "2026-10-22T12:15:00-04:00",
+   "end": "2026-10-22T13:30:00-04:00",
+   "room": "Poster Hall B-C",
+   "roles": [
+    {
+     "role": "Presenter",
+     "people": [
+      {
+       "name": "Alvaro D. Pinto-Rodriguez",
+       "site": "RST",
+       "personId": "alvaro-pinto-rodriguez"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "Valeria Cormane-Alfaro"
+      },
+      {
+       "name": "Maria Rey-Salamanca"
+      },
+      {
+       "name": "Edgar Castro-Prieto"
+      },
+      {
+       "name": "Nicolas D. Santoyo-Sarmiento"
+      },
+      {
+       "name": "Jose Cruz-Cuevas"
+      },
+      {
+       "name": "Julian Moreno-Leon"
+      },
+      {
+       "name": "Henry Millan"
+      },
+      {
+       "name": "Rodolfo Dennis"
+      }
+     ]
+    }
+   ],
+   "category": "HEALTH CARE-ASSOCIATED INFECTIONS: GRAM-NEGATIVES (MDR-GNR)",
+   "title": "Solid Organ Transplantation and Prior Antibiotic Use as Primary Drivers of Carbapenemase-Producing Enterobacteriaceae Infections at a Tertiary Care Center in Colombia: A Retrospective Case-Control Study",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID=839258",
+   "id": "P-1418"
+  },
+  {
+   "kind": "poster",
+   "board": "P-1507",
+   "day": "2026-10-22",
+   "start": "2026-10-22T12:15:00-04:00",
+   "end": "2026-10-22T13:30:00-04:00",
+   "room": "Poster Hall B-C",
+   "roles": [
+    {
+     "role": "Presenter",
+     "people": [
+      {
+       "name": "Carrie Holdren-Serrell",
+       "affiliation": "Johns Hopkins Hospital"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "Kavita Sangma"
+      },
+      {
+       "name": "Gauri Pandey"
+      },
+      {
+       "name": "Poorva Kiran Shinde"
+      },
+      {
+       "name": "Bharat Randive"
+      },
+      {
+       "name": "Akaash Patel"
+      },
+      {
+       "name": "Mrunmayi Naik"
+      },
+      {
+       "name": "Shaoli Basu"
+      },
+      {
+       "name": "Haridas Babulal Prasad"
+      },
+      {
+       "name": "Melanie Curless"
+      },
+      {
+       "name": "Sarah Fisseha"
+      },
+      {
+       "name": "Matthew Robinson"
+      },
+      {
+       "name": "Patricia Simner",
+       "site": "RST",
+       "personId": "patricia-simner"
+      }
+     ]
+    }
+   ],
+   "category": "HEALTH CARE-ASSOCIATED INFECTIONS: DISINFECTION/STERILIZATION & ENVIRONMENTAL INFECTION PREVENTION",
+   "title": "Utility of Fluorescing Laundry Detergent to Monitor Environmental Cleaning",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID=839269",
+   "id": "P-1507"
+  },
+  {
+   "kind": "virtualPoster",
+   "board": "P-876",
+   "day": "2026-10-22",
+   "start": "2026-10-22T12:15:00-04:00",
+   "end": "2026-10-22T13:30:00-04:00",
+   "room": "Virtual (IDWeek app/site)",
+   "roles": [
+    {
+     "role": "Presenter",
+     "people": [
+      {
+       "name": "Meenakshi R. Yathindra",
+       "affiliation": "NYMC- Roxborough Memorial Hospital"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "Iman Khan"
+      },
+      {
+       "name": "Mahnoor Gelani"
+      },
+      {
+       "name": "Moiz Ul Haq"
+      },
+      {
+       "name": "Laiba Manzoor"
+      },
+      {
+       "name": "Krish Keswani"
+      },
+      {
+       "name": "Faiza Khalid"
+      },
+      {
+       "name": "Amrit Arora"
+      },
+      {
+       "name": "Elena Alupei"
+      },
+      {
+       "name": "Nadia Siddiq"
+      },
+      {
+       "name": "Ayodeji arobo"
+      },
+      {
+       "name": "Ashesh Das",
+       "site": "RST",
+       "personId": "ashesh-das"
+      }
+     ]
+    }
+   ],
+   "category": "GLOBAL HEALTH",
+   "title": "Temporal Trends in Shigellosis Mortality and Disability-Adjusted Life Years in the United States, 1990–2023: A Joinpoint Regression Analysis of Global Burden of Disease 2023 Study",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID=839695",
+   "id": "P-876"
+  },
+  {
+   "kind": "talk",
+   "type": "Symposium",
+   "day": "2026-10-22",
+   "start": "2026-10-22T13:45:00-04:00",
+   "end": "2026-10-22T15:00:00-04:00",
+   "room": "150 AB",
+   "roles": [
+    {
+     "role": "Moderator",
+     "people": [
+      {
+       "name": "Maryrose Laguio-Vila",
+       "affiliation": "Rochester Regional Health"
+      },
+      {
+       "name": "Benjamin Hanisch",
+       "affiliation": "Children's National"
+      }
+     ]
+    },
+    {
+     "role": "Speaker",
+     "people": [
+      {
+       "name": "Joshua Lieberman",
+       "affiliation": "University of Washington Medical Center"
+      },
+      {
+       "name": "Caitlin Li",
+       "affiliation": "Lurie Children's Hospital"
+      },
+      {
+       "name": "Robin Patel",
+       "site": "RST",
+       "personId": "robin-patel"
+      }
+     ]
+    }
+   ],
+   "title": "Positive, Negative or Too New to Interpret: Making Sense of Emerging Diagnostic Assays",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=sessionInfo&PresentationID=1825396",
+   "id": "T035"
+  },
+  {
+   "kind": "talk",
+   "type": "Mayo Talk in Session",
+   "day": "2026-10-22",
+   "start": "2026-10-22T14:35:00-04:00",
+   "end": "2026-10-22T15:00:00-04:00",
+   "room": "150 AB",
+   "title": "A Solution: Advanced Studies, Including Implementation Science Approaches, for Diagnostic Tests",
+   "session": "Positive, Negative or Too New to Interpret: Making Sense of Emerging Diagnostic Assays",
+   "parentTitle": "Positive, Negative or Too New to Interpret: Making Sense of Emerging Diagnostic Assays",
+   "roles": [
+    {
+     "role": "Speaker",
+     "people": [
+      {
+       "name": "Robin Patel",
+       "site": "RST",
+       "personId": "robin-patel"
+      }
+     ]
+    }
+   ],
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=presInfo&PresentationID=1832842",
+   "id": "T036"
+  },
+  {
+   "kind": "talk",
+   "type": "Symposium",
+   "day": "2026-10-22",
+   "start": "2026-10-22T13:45:00-04:00",
+   "end": "2026-10-22T15:00:00-04:00",
+   "room": "152 AB",
+   "roles": [
+    {
+     "role": "Moderator",
+     "people": [
+      {
+       "name": "Emily Spivak",
+       "affiliation": "University of Utah Health"
+      },
+      {
+       "name": "Taryn Eubank",
+       "affiliation": "University of Houston College of Pharmacy"
+      }
+     ]
+    },
+    {
+     "role": "Speaker",
+     "people": [
+      {
+       "name": "Robert Sawyer",
+       "affiliation": "Western Michigan University Homer Stryker MD School of Medicine"
+      },
+      {
+       "name": "Dimitri Drekonja",
+       "affiliation": "Minneapolis Veterans Affairs Medical Center"
+      },
+      {
+       "name": "Christina O'Connor",
+       "site": "RST",
+       "personId": "christina-oconnor"
+      }
+     ]
+    }
+   ],
+   "title": "Treatment Conundrums - Not Always Black & White",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=sessionInfo&PresentationID=1841082",
+   "id": "T037"
+  },
+  {
+   "kind": "talk",
+   "type": "Mayo Talk in Session",
+   "day": "2026-10-22",
+   "start": "2026-10-22T14:10:00-04:00",
+   "end": "2026-10-22T14:35:00-04:00",
+   "room": "152 AB",
+   "title": "Do I Really Need to Adjust That Dose for Hypoalbuminemia?",
+   "session": "Treatment Conundrums - Not Always Black & White",
+   "parentTitle": "Treatment Conundrums - Not Always Black & White",
+   "roles": [
+    {
+     "role": "Speaker",
+     "people": [
+      {
+       "name": "Christina G. O'Connor",
+       "site": "RST",
+       "personId": "christina-oconnor"
+      }
+     ]
+    }
+   ],
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=presInfo&PresentationID=1825445",
+   "id": "T038"
+  },
+  {
+   "kind": "talk",
+   "type": "Symposium",
+   "day": "2026-10-22",
+   "start": "2026-10-22T15:15:00-04:00",
+   "end": "2026-10-22T16:30:00-04:00",
+   "room": "151 AB",
+   "roles": [
+    {
+     "role": "Moderator",
+     "people": [
+      {
+       "name": "Ritu Banerjee",
+       "affiliation": "Vanderbilt University Medical Center"
+      },
+      {
+       "name": "Patricia Simner",
+       "site": "RST",
+       "personId": "patricia-simner"
+      }
+     ]
+    },
+    {
+     "role": "Speaker",
+     "people": [
+      {
+       "name": "Charlotte Woods-Hill",
+       "affiliation": "The Children's Hospital of Philadelphia"
+      },
+      {
+       "name": "Francesca Lee",
+       "affiliation": "UT Southwestern"
+      },
+      {
+       "name": "Patricia Simner",
+       "site": "RST",
+       "personId": "patricia-simner"
+      }
+     ]
+    }
+   ],
+   "title": "From Strategy to Practice: Partnering With Clinical Microbiology for Diagnostic Stewardship Success",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=sessionInfo&PresentationID=1841073",
+   "id": "T039"
+  },
+  {
+   "kind": "talk",
+   "type": "Mayo Talk in Session",
+   "day": "2026-10-22",
+   "start": "2026-10-22T15:40:00-04:00",
+   "end": "2026-10-22T16:05:00-04:00",
+   "room": "151 AB",
+   "title": "Diagnostic Stewardship Perspectives From a Clinical Microbiologist",
+   "session": "From Strategy to Practice: Partnering With Clinical Microbiology for Diagnostic Stewardship Success",
+   "parentTitle": "From Strategy to Practice: Partnering With Clinical Microbiology for Diagnostic Stewardship Success",
+   "roles": [
+    {
+     "role": "Speaker",
+     "people": [
+      {
+       "name": "Patricia Simner",
+       "site": "RST",
+       "personId": "patricia-simner"
+      }
+     ]
+    }
+   ],
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=presInfo&PresentationID=1825538",
+   "id": "T040"
+  },
+  {
+   "kind": "talk",
+   "type": "Oral Abstract",
+   "day": "2026-10-22",
+   "start": "2026-10-22T16:00:00-04:00",
+   "end": "2026-10-22T16:15:00-04:00",
+   "room": "201",
+   "roles": [
+    {
+     "role": "Presenting Author",
+     "people": [
+      {
+       "name": "Wentiirim Annankra",
+       "site": "RST",
+       "personId": "wentiirim-annankra"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "Emmanuella L. Salia",
+       "site": "RST",
+       "personId": "emmanuella-salia"
+      },
+      {
+       "name": "Maria C. Gallup",
+       "site": "RST",
+       "personId": "maria-gallup"
+      },
+      {
+       "name": "Jayden M. Wilhelm",
+       "site": "RST",
+       "personId": "jayden-wilhelm"
+      },
+      {
+       "name": "Sarah Rachel Coleman",
+       "site": "RST",
+       "personId": "sarah-rachel-coleman"
+      },
+      {
+       "name": "Megan Misgen",
+       "site": "MCHS",
+       "personId": "megan-misgen"
+      },
+      {
+       "name": "Erica Phelps",
+       "site": "RST",
+       "personId": "erica-phelps"
+      },
+      {
+       "name": "Raymond Stetson",
+       "site": "RST",
+       "personId": "raymond-stetson"
+      },
+      {
+       "name": "Emily Ruth. Levy",
+       "site": "RST",
+       "personId": "emily-ruth-levy"
+      }
+     ]
+    }
+   ],
+   "session": "Implant or Invader? Device-Associated Infection Surveillance & Prevention",
+   "title": "A Quality Improvement Initiative to Reduce Ventilator Associated Pneumonia in High-risk Neonates in the NICU",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=presInfo&PresentationID=1894797",
+   "id": "T041"
+  },
+  {
+   "kind": "talk",
+   "type": "Meet-the-Professor",
+   "day": "2026-10-23",
+   "start": "2026-10-23T08:00:00-04:00",
+   "end": "2026-10-23T09:00:00-04:00",
+   "room": "150 AB",
+   "roles": [
+    {
+     "role": "Moderator",
+     "people": [
+      {
+       "name": "Anthony Leung",
+       "affiliation": "Cleveland Clinic Akron General"
+      },
+      {
+       "name": "Robin Patel",
+       "site": "RST",
+       "personId": "robin-patel"
+      }
+     ]
+    },
+    {
+     "role": "Speaker",
+     "people": [
+      {
+       "name": "Gina Suh",
+       "site": "RST",
+       "personId": "gina-suh"
+      },
+      {
+       "name": "Jon Koff",
+       "affiliation": "Yale University School of Medicine"
+      }
+     ]
+    }
+   ],
+   "title": "The Biofilm Barrier Strategies With Phage Therapy - Bacteriophage Therapy in Orthopedics Infection and Phage Therapy in Multidrug-Resistant Pseudomonas aeruginosa Infection in Cystic Fibrosis",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=sessionInfo&PresentationID=1841067",
+   "id": "T042"
+  },
+  {
+   "kind": "talk",
+   "type": "Mayo Talk in Session",
+   "day": "2026-10-23",
+   "start": "2026-10-23T08:30:00-04:00",
+   "end": "2026-10-23T09:00:00-04:00",
+   "room": "150 AB",
+   "title": "Bacteriophage Therapy in Orthopedics Infection",
+   "session": "The Biofilm Barrier Strategies With Phage Therapy - Bacteriophage Therapy in Orthopedics Infection and Phage Therapy in Multidrug-Resistant Pseudomonas aeruginosa Infection in Cystic Fibrosis",
+   "parentTitle": "The Biofilm Barrier Strategies With Phage Therapy - Bacteriophage Therapy in Orthopedics Infection and Phage Therapy in Multidrug-Resistant Pseudomonas aeruginosa Infection in Cystic Fibrosis",
+   "roles": [
+    {
+     "role": "Speaker",
+     "people": [
+      {
+       "name": "Gina A. Suh",
+       "site": "RST",
+       "personId": "gina-suh"
+      }
+     ]
+    }
+   ],
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=presInfo&PresentationID=1825627",
+   "id": "T043"
+  },
+  {
+   "kind": "talk",
+   "type": "Meet-the-Professor",
+   "day": "2026-10-23",
+   "start": "2026-10-23T08:00:00-04:00",
+   "end": "2026-10-23T09:00:00-04:00",
+   "room": "209 ABC",
+   "roles": [
+    {
+     "role": "Moderator",
+     "people": [
+      {
+       "name": "Joanna Schaenman",
+       "affiliation": "David Geffen School of Medicine at UCLA"
+      },
+      {
+       "name": "Maricar Malinis",
+       "affiliation": "Vanderbilt Health"
+      }
+     ]
+    },
+    {
+     "role": "Speaker",
+     "people": [
+      {
+       "name": "Olivia Kates",
+       "affiliation": "Johns Hopkins School of Medicine"
+      },
+      {
+       "name": "Raymund Razonable",
+       "site": "RST",
+       "personId": "raymund-razonable"
+      }
+     ]
+    }
+   ],
+   "title": "Infection and Transplant Candidacy: Hard Lines or Gray Zones?",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=sessionInfo&PresentationID=1825414",
+   "id": "T044"
+  },
+  {
+   "kind": "talk",
+   "type": "BugHub World Stage",
+   "day": "2026-10-23",
+   "start": "2026-10-23T09:30:00-04:00",
+   "end": "2026-10-23T09:55:00-04:00",
+   "room": "BugHub World Stage",
+   "roles": [
+    {
+     "role": "Moderator",
+     "people": [
+      {
+       "name": "Ryan B",
+       "affiliation": "Vanderbilt University Medical Center"
+      },
+      {
+       "name": "Zachary Yetmar",
+       "affiliation": "Cleveland Clinic"
+      }
+     ]
+    },
+    {
+     "role": "Presenter",
+     "people": [
+      {
+       "name": "Jessica Seidelman",
+       "affiliation": "Duke University School of Medicine"
+      },
+      {
+       "name": "Poorani Sekar",
+       "affiliation": "University of Iowa Hospitals and Clinics"
+      },
+      {
+       "name": "Jenny Aronson",
+       "affiliation": "Stanford Health Care"
+      },
+      {
+       "name": "Omar Abu Saleh",
+       "site": "RST",
+       "personId": "omar-abu-saleh"
+      }
+     ]
+    }
+   ],
+   "title": "From Exposure to Expertise: Building the Ortho-ID Pipeline",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=sessionInfo&PresentationID=1895813",
+   "id": "T045"
+  },
+  {
+   "kind": "talk",
+   "type": "Oral Abstract",
+   "day": "2026-10-23",
+   "start": "2026-10-23T11:00:00-04:00",
+   "end": "2026-10-23T11:15:00-04:00",
+   "room": "103 AB",
+   "roles": [
+    {
+     "role": "Presenting Author",
+     "people": [
+      {
+       "name": "Sarah R. Lessard",
+       "site": "MCHS",
+       "personId": "sarah-lessard"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "Viengneesee Thao",
+       "site": "RST",
+       "personId": "viengneesee-thao"
+      },
+      {
+       "name": "Alexei Gonzalez-Estrada",
+       "site": "AZ",
+       "personId": "alexei-gonzalez-estrada"
+      },
+      {
+       "name": "Michael Edwards",
+       "site": "FL",
+       "personId": "michael-edwards"
+      },
+      {
+       "name": "Steven Porter",
+       "site": "FL",
+       "personId": "steven-porter"
+      },
+      {
+       "name": "Kristine Hanson",
+       "site": "RST",
+       "personId": "kristine-hanson"
+      },
+      {
+       "name": "Lindsey Sangaralingham",
+       "site": "RST",
+       "personId": "lindsey-sangaralingham"
+      },
+      {
+       "name": "Abinash Virk",
+       "site": "RST",
+       "personId": "abinash-virk"
+      }
+     ]
+    }
+   ],
+   "session": "When the Cut Goes Deeper Than Skin: SSI Risks and Prevention",
+   "title": "Antimicrobial Stewardship Efforts Directed at Improving Cefazolin Use among Patients with Penicillin Allergy Labels Decreased Surgical Site Infections and Mortality",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=presInfo&PresentationID=1894739",
+   "id": "T046"
+  },
+  {
+   "kind": "talk",
+   "type": "Oral Abstract",
+   "day": "2026-10-23",
+   "start": "2026-10-23T11:06:00-04:00",
+   "end": "2026-10-23T11:18:00-04:00",
+   "room": "102 AB",
+   "roles": [
+    {
+     "role": "Presenting Author",
+     "people": [
+      {
+       "name": "Drew T. Dickinson",
+       "site": "AZ",
+       "personId": "drew-dickinson"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "Melissa Tapia",
+       "site": "AZ",
+       "personId": "melissa-tapia"
+      },
+      {
+       "name": "John Freemore",
+       "site": "AZ",
+       "personId": "john-freemore"
+      },
+      {
+       "name": "Abeer AlMajali",
+       "site": "AZ",
+       "personId": "abeer-almajali"
+      },
+      {
+       "name": "Mark Burns",
+       "site": "AZ",
+       "personId": "mark-burns"
+      },
+      {
+       "name": "Edward Cachay",
+       "site": "AZ",
+       "personId": "edward-cachay"
+      },
+      {
+       "name": "Rachel Kielp",
+       "site": "AZ",
+       "personId": "rachel-kielp"
+      },
+      {
+       "name": "Sandhya Nagarakanti",
+       "site": "AZ",
+       "personId": "sandhya-nagarakanti"
+      },
+      {
+       "name": "Dan Ilges",
+       "site": "AZ",
+       "personId": "dan-ilges"
+      }
+     ]
+    }
+   ],
+   "session": "Tele-ID & OPAT Heroes",
+   "title": "Development of Structured Case Management and Infectious Diseases Pharmacist Review of OPAT Orders at Hospital Discharge",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=presInfo&PresentationID=1894808",
+   "id": "T047"
+  },
+  {
+   "kind": "talk",
+   "type": "Oral Abstract",
+   "day": "2026-10-23",
+   "start": "2026-10-23T11:18:00-04:00",
+   "end": "2026-10-23T11:30:00-04:00",
+   "room": "201",
+   "roles": [
+    {
+     "role": "Presenting Author",
+     "people": [
+      {
+       "name": "Sofia Molina Garcia",
+       "site": "RST",
+       "personId": "sofia-molina-garcia"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "Melissa Kerkelis",
+       "site": "RST",
+       "personId": "melissa-kerkelis"
+      },
+      {
+       "name": "Patricia Simner",
+       "site": "RST",
+       "personId": "patricia-simner"
+      },
+      {
+       "name": "Nischal Ranganath",
+       "site": "RST",
+       "personId": "nischal-ranganath"
+      },
+      {
+       "name": "Omar M. Abu Saleh",
+       "site": "RST",
+       "personId": "omar-abu-saleh"
+      }
+     ]
+    }
+   ],
+   "session": "Fantastic Fungi & Where to Find Them",
+   "title": "When Fungi Show Up: Clinical Relevance and Outcomes of Fungal Detections by Plasma Microbial Cell-Free DNA Sequencing",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=presInfo&PresentationID=1894680",
+   "id": "T048"
+  },
+  {
+   "kind": "poster",
+   "board": "P-201",
+   "day": "2026-10-23",
+   "start": "2026-10-23T12:15:00-04:00",
+   "end": "2026-10-23T13:30:00-04:00",
+   "room": "Poster Hall B-C",
+   "roles": [
+    {
+     "role": "Presenter",
+     "people": [
+      {
+       "name": "Kathleen O'Connor",
+       "site": "RST",
+       "personId": "kathleen-oconnor"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "Kerryl Greenwood-Quaintance",
+       "site": "RST",
+       "personId": "kerryl-greenwood-quaintance"
+      },
+      {
+       "name": "Benjamin D. Mallinger",
+       "site": "RST",
+       "personId": "benjamin-mallinger"
+      },
+      {
+       "name": "Michael M. Abdou",
+       "site": "RST",
+       "personId": "michael-abdou"
+      },
+      {
+       "name": "Joshua D. Tucker",
+       "site": "RST",
+       "personId": "joshua-tucker"
+      },
+      {
+       "name": "Nicholas Bedard",
+       "site": "RST",
+       "personId": "nicholas-bedard"
+      },
+      {
+       "name": "Robin Patel",
+       "site": "RST",
+       "personId": "robin-patel"
+      }
+     ]
+    }
+   ],
+   "category": "BASIC SCIENCE AND TRANSLATIONAL STUDIES",
+   "title": "Machine Learning-Based Bacterial Genome Wide Association Study of Persistent Staphylococcus aureus Periprosthetic Joint Infection",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID=838844",
+   "id": "P-201"
+  },
+  {
+   "kind": "poster",
+   "board": "P-779",
+   "day": "2026-10-23",
+   "start": "2026-10-23T12:15:00-04:00",
+   "end": "2026-10-23T13:30:00-04:00",
+   "room": "Poster Hall B-C",
+   "roles": [
+    {
+     "role": "Presenter",
+     "people": [
+      {
+       "name": "Mark Burns",
+       "site": "AZ",
+       "personId": "mark-burns"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "Robert Orenstein",
+       "site": "AZ",
+       "personId": "robert-orenstein"
+      },
+      {
+       "name": "Lisa Speiser",
+       "site": "AZ",
+       "personId": "lisa-speiser"
+      },
+      {
+       "name": "Mark Dollar",
+       "site": "AZ",
+       "personId": "mark-dollar"
+      },
+      {
+       "name": "Claire Chorney",
+       "site": "AZ",
+       "personId": "claire-chorney"
+      },
+      {
+       "name": "Edward Cachay",
+       "site": "AZ",
+       "personId": "edward-cachay"
+      },
+      {
+       "name": "Abigail Cottrell",
+       "site": "AZ",
+       "personId": "abigail-cottrell"
+      }
+     ]
+    }
+   ],
+   "category": "INFECTIOUS DISEASES MEDICAL EDUCATION",
+   "title": "Early Implementation of an Infectious Diseases APP Fellowship: 6-Month Interim Outcomes from a 12-Month Pilot Program",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID=838847",
+   "id": "P-779"
+  },
+  {
+   "kind": "poster",
+   "board": "P-1590",
+   "day": "2026-10-23",
+   "start": "2026-10-23T12:15:00-04:00",
+   "end": "2026-10-23T13:30:00-04:00",
+   "room": "Poster Hall B-C",
+   "roles": [
+    {
+     "role": "Presenter",
+     "people": [
+      {
+       "name": "Ayesha Samreen",
+       "site": "RST",
+       "personId": "ayesha-samreen"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "Bobbi S. Pritt",
+       "site": "RST",
+       "personId": "bobbi-pritt"
+      },
+      {
+       "name": "Omar M. Abu Saleh",
+       "site": "RST",
+       "personId": "omar-abu-saleh"
+      }
+     ]
+    }
+   ],
+   "category": "PUBLIC HEALTH",
+   "title": "Clinical and laboratory characteristics of PCR-confirmed Ehrlichiosis- tertiary center experience in the United States (2017-2025)",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID=838821",
+   "id": "P-1590"
+  },
+  {
+   "kind": "poster",
+   "board": "P-1833",
+   "day": "2026-10-23",
+   "start": "2026-10-23T12:15:00-04:00",
+   "end": "2026-10-23T13:30:00-04:00",
+   "room": "Poster Hall B-C",
+   "roles": [
+    {
+     "role": "Presenter",
+     "people": [
+      {
+       "name": "Rahel M. Sileshi",
+       "affiliation": "University of Kansas Medical Center"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "Katherine Mathes"
+      },
+      {
+       "name": "Sathya Kosuri"
+      },
+      {
+       "name": "Amulya Gupta"
+      },
+      {
+       "name": "Neil Philips"
+      },
+      {
+       "name": "Wissam El Atrouni"
+      },
+      {
+       "name": "Larry M. Baddour",
+       "site": "RST",
+       "personId": "larry-baddour"
+      },
+      {
+       "name": "Amit Noheria"
+      }
+     ]
+    }
+   ],
+   "category": "ANTIMICROBIAL STEWARDSHIP OUTCOMES ASSESSMENT",
+   "title": "Antibiotic Prophylaxis for Low-Risk Electrophysiology Procedures: High-volume Practice, Low Infection Risk, and Unproven Benefit",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID=837856",
+   "id": "P-1833"
+  },
+  {
+   "kind": "poster",
+   "board": "P-2016",
+   "day": "2026-10-23",
+   "start": "2026-10-23T12:15:00-04:00",
+   "end": "2026-10-23T13:30:00-04:00",
+   "room": "Poster Hall B-C",
+   "roles": [
+    {
+     "role": "Presenter",
+     "people": [
+      {
+       "name": "Maheswari Ekambaram",
+       "affiliation": "Dell Children's Medical Center"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "Theresa Madigan",
+       "site": "RST",
+       "personId": "theresa-madigan"
+      },
+      {
+       "name": "Christopher Reis",
+       "site": "RST",
+       "personId": "christopher-reis"
+      }
+     ],
+     "additional": 24
+    }
+   ],
+   "category": "TRANSPLANT AND IMMUNOCOMPROMISED HOST INFECTIONS",
+   "title": "Management and Outcomes of Community-Acquired Pneumonia Requiring Hospitalization among Non-Lung Pediatric Solid Organ Transplant Recipients",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID=838651",
+   "id": "P-2016"
+  },
+  {
+   "kind": "poster",
+   "board": "P-2025",
+   "day": "2026-10-23",
+   "start": "2026-10-23T12:15:00-04:00",
+   "end": "2026-10-23T13:30:00-04:00",
+   "room": "Poster Hall B-C",
+   "roles": [
+    {
+     "role": "Presenter",
+     "people": [
+      {
+       "name": "Abdallah Mughrabi",
+       "site": "RST",
+       "personId": "abdallah-mughrabi"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "Douglas Challener",
+       "site": "RST",
+       "personId": "douglas-challener"
+      },
+      {
+       "name": "Meshref Alshehri",
+       "site": "RST",
+       "personId": "meshref-alshehri"
+      },
+      {
+       "name": "Raymund R. Razonable",
+       "site": "RST",
+       "personId": "raymund-razonable"
+      }
+     ]
+    }
+   ],
+   "category": "TRANSPLANT AND IMMUNOCOMPROMISED HOST INFECTIONS",
+   "title": "Revisiting the Phenotypes of Cytomegalovirus (CMV) Infection in Solid Organ Transplant (SOT) Recipients Using Natural Language Processing",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID=838616",
+   "id": "P-2025"
+  },
+  {
+   "kind": "poster",
+   "board": "P-2047",
+   "day": "2026-10-23",
+   "start": "2026-10-23T12:15:00-04:00",
+   "end": "2026-10-23T13:30:00-04:00",
+   "room": "Poster Hall B-C",
+   "roles": [
+    {
+     "role": "Presenter",
+     "people": [
+      {
+       "name": "Shari J. Zaslow",
+       "site": "RST",
+       "personId": "shari-zaslow"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "Omar M. Abu Saleh",
+       "site": "RST",
+       "personId": "omar-abu-saleh"
+      },
+      {
+       "name": "Madiha Fida",
+       "site": "RST",
+       "personId": "madiha-fida"
+      }
+     ]
+    }
+   ],
+   "category": "TRANSPLANT AND IMMUNOCOMPROMISED HOST INFECTIONS",
+   "title": "Characterizing Infections from A Poorly Understood Mollicute: Mycoplasma Salivarium",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID=838567",
+   "id": "P-2047"
+  },
+  {
+   "kind": "virtualPoster",
+   "board": "P-808",
+   "day": "2026-10-23",
+   "start": "2026-10-23T12:15:00-04:00",
+   "end": "2026-10-23T13:30:00-04:00",
+   "room": "Virtual (IDWeek app/site)",
+   "roles": [
+    {
+     "role": "Presenter",
+     "people": [
+      {
+       "name": "Duncan Works",
+       "site": "RST",
+       "personId": "duncan-works"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "Elizabeth Lyden"
+      },
+      {
+       "name": "Daniel W. Cramer"
+      },
+      {
+       "name": "Emmanuel Nazaire Essam Nkodo"
+      },
+      {
+       "name": "Renae Furl"
+      },
+      {
+       "name": "Jennifer O'Neil"
+      },
+      {
+       "name": "Maureen Kubat"
+      },
+      {
+       "name": "Heather Saarela"
+      },
+      {
+       "name": "Nada Fadul"
+      },
+      {
+       "name": "Jennifer M. Davis"
+      }
+     ]
+    }
+   ],
+   "category": "INFECTIOUS DISEASES MEDICAL EDUCATION",
+   "title": "Outcomes of a Learning Needs Assessment Survey in the Development of the Extension for Community Health Outcomes Model for HIV Training in Midwestern Non-Metropolitan Areas",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID=838956",
+   "id": "P-808"
+  },
+  {
+   "kind": "virtualPoster",
+   "board": "P-921",
+   "day": "2026-10-23",
+   "start": "2026-10-23T12:15:00-04:00",
+   "end": "2026-10-23T13:30:00-04:00",
+   "room": "Virtual (IDWeek app/site)",
+   "roles": [
+    {
+     "role": "Presenter",
+     "people": [
+      {
+       "name": "Meenakshi R. Yathindra",
+       "affiliation": "NYMC- Roxborough Memorial Hospital"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "Iman Khan"
+      },
+      {
+       "name": "Faiza Khalid"
+      },
+      {
+       "name": "Krish Keswani"
+      },
+      {
+       "name": "Laiba Manzoor"
+      },
+      {
+       "name": "Moiz Ul Haq"
+      },
+      {
+       "name": "Mahnoor Gelani"
+      },
+      {
+       "name": "Dadullah Faiz"
+      },
+      {
+       "name": "Elena Alupei"
+      },
+      {
+       "name": "Mohammed El Shabrawi"
+      },
+      {
+       "name": "Digvijay Singh Rajawat"
+      },
+      {
+       "name": "Ashesh Das",
+       "site": "RST",
+       "personId": "ashesh-das"
+      }
+     ]
+    }
+   ],
+   "category": "HIV: EPIDEMIOLOGY AND SCREENING",
+   "title": "Diverging HIV Incidence Trajectories Among Youth (15–29 Years) in Asia-Pacific, 1990–2023: A Joinpoint Regression Analysis of the Global Burden of Disease 2023 Study",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID=838931",
+   "id": "P-921"
+  },
+  {
+   "kind": "virtualPoster",
+   "board": "P-1332",
+   "day": "2026-10-23",
+   "start": "2026-10-23T12:15:00-04:00",
+   "end": "2026-10-23T13:30:00-04:00",
+   "room": "Virtual (IDWeek app/site)",
+   "roles": [
+    {
+     "role": "Presenter",
+     "people": [
+      {
+       "name": "Jhanvi Akhil Agarwal",
+       "affiliation": "Bharati vidyapeeth medical college"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "Laiba Manzoor"
+      },
+      {
+       "name": "FNU Aakriti"
+      },
+      {
+       "name": "Iman Khan"
+      },
+      {
+       "name": "Shaiza Maryam"
+      },
+      {
+       "name": "Dadullah Faiz"
+      },
+      {
+       "name": "Riyakumari Patel"
+      },
+      {
+       "name": "Mohammed El Shabrawi"
+      },
+      {
+       "name": "Mahad Ahmed"
+      },
+      {
+       "name": "Basit Abdul"
+      },
+      {
+       "name": "Muneeb Pasha"
+      },
+      {
+       "name": "Ashesh Das",
+       "site": "RST",
+       "personId": "ashesh-das"
+      }
+     ]
+    }
+   ],
+   "category": "TUBERCULOSIS AND OTHER MYCOBACTERIAL INFECTIONS",
+   "title": "The Geriatric Tuberculosis Shift: Navigating Atypical Presentations, Immunosenescence, and Polypharmacy in the Western Pacific Region",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID=838642",
+   "id": "P-1332"
+  },
+  {
+   "kind": "talk",
+   "type": "Oral Abstract",
+   "day": "2026-10-23",
+   "start": "2026-10-23T15:45:00-04:00",
+   "end": "2026-10-23T16:00:00-04:00",
+   "room": "209 ABC",
+   "roles": [
+    {
+     "role": "Presenting Author",
+     "people": [
+      {
+       "name": "Shungo Imai",
+       "affiliation": "University of Iowa Carver College of Medicine"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "Dan Ilges",
+       "site": "AZ",
+       "personId": "dan-ilges"
+      }
+     ],
+     "additional": 16
+    }
+   ],
+   "session": "From Local to Global: Understanding the Growing Burden of MDROs",
+   "title": "Development of an Updated Global Framework for Antibiotic Spectrum Coverage (ASC) Scoring and Days of Antimicrobial Spectrum Coverage (DASC): First Stage of an International Modified Delphi Study",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=presInfo&PresentationID=1894773",
+   "id": "T059"
+  },
+  {
+   "kind": "talk",
+   "type": "Symposium",
+   "day": "2026-10-24",
+   "start": "2026-10-24T10:30:00-04:00",
+   "end": "2026-10-24T11:45:00-04:00",
+   "room": "151 AB",
+   "roles": [
+    {
+     "role": "Moderator",
+     "people": [
+      {
+       "name": "Nongnooch Poowanawittayakom",
+       "affiliation": "Rutgers New Jersey Medical School"
+      },
+      {
+       "name": "Geno Tai",
+       "affiliation": "University of Minnesota"
+      }
+     ]
+    },
+    {
+     "role": "Speaker",
+     "people": [
+      {
+       "name": "Aaron Tande",
+       "site": "RST",
+       "personId": "aaron-tande"
+      },
+      {
+       "name": "Matthew Goodwin",
+       "affiliation": "WashU Med"
+      },
+      {
+       "name": "Jenny Aronson",
+       "affiliation": "Stanford Health Care"
+      }
+     ]
+    }
+   ],
+   "title": "We Got Your Back: Managing Postoperative Spinal Implant Infections",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=sessionInfo&PresentationID=1825406",
+   "id": "T060"
+  },
+  {
+   "kind": "talk",
+   "type": "Mayo Talk in Session",
+   "day": "2026-10-24",
+   "start": "2026-10-24T11:20:00-04:00",
+   "end": "2026-10-24T11:45:00-04:00",
+   "room": "151 AB",
+   "title": "Recognizing and Defining Postoperative Spine Infection: A Diagnostic Framework Integrating Clinical Criteria, Biomarkers and Advanced Imaging",
+   "session": "We Got Your Back: Managing Postoperative Spinal Implant Infections",
+   "parentTitle": "We Got Your Back: Managing Postoperative Spinal Implant Infections",
+   "roles": [
+    {
+     "role": "Speaker",
+     "people": [
+      {
+       "name": "Aaron J. Tande",
+       "site": "RST",
+       "personId": "aaron-tande"
+      }
+     ]
+    }
+   ],
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=presInfo&PresentationID=1825429",
+   "id": "T061"
+  },
+  {
+   "kind": "talk",
+   "type": "Symposium",
+   "day": "2026-10-24",
+   "start": "2026-10-24T10:30:00-04:00",
+   "end": "2026-10-24T11:45:00-04:00",
+   "room": "204 ABC",
+   "roles": [
+    {
+     "role": "Moderator",
+     "people": [
+      {
+       "name": "Allison Bartlett",
+       "affiliation": "University of Chicago Medicine"
+      },
+      {
+       "name": "Lilliam Ambroggio",
+       "affiliation": "Children's Hospital Colorado"
+      }
+     ]
+    },
+    {
+     "role": "Speaker",
+     "people": [
+      {
+       "name": "Sanjay Jain",
+       "affiliation": "Cincinnati Children's Hospital Medical Center"
+      },
+      {
+       "name": "Elizabeth Ann Enninga",
+       "site": "RST",
+       "personId": "elizabeth-ann-enninga"
+      },
+      {
+       "name": "Charles Langelier",
+       "affiliation": "University of California San Francisco"
+      }
+     ]
+    }
+   ],
+   "title": "Is This Infectious? Pediatric Physician Scientists on the Case!",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=sessionInfo&PresentationID=1841097",
+   "id": "T062"
+  },
+  {
+   "kind": "talk",
+   "type": "Mayo Talk in Session",
+   "day": "2026-10-24",
+   "start": "2026-10-24T10:30:00-04:00",
+   "end": "2026-10-24T10:55:00-04:00",
+   "room": "204 ABC",
+   "title": "Chronic Villitis Pathophysiology and Its Impact on Childhood Outcomes",
+   "session": "Is This Infectious? Pediatric Physician Scientists on the Case!",
+   "parentTitle": "Is This Infectious? Pediatric Physician Scientists on the Case!",
+   "roles": [
+    {
+     "role": "Speaker",
+     "people": [
+      {
+       "name": "Elizabeth Ann L. Enninga",
+       "site": "RST",
+       "personId": "elizabeth-ann-enninga"
+      }
+     ]
+    }
+   ],
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=presInfo&PresentationID=1825511",
+   "id": "T063"
+  },
+  {
+   "kind": "poster",
+   "board": "P-351",
+   "day": "2026-10-24",
+   "start": "2026-10-24T12:15:00-04:00",
+   "end": "2026-10-24T13:30:00-04:00",
+   "room": "Poster Hall B-C",
+   "roles": [
+    {
+     "role": "Presenter",
+     "people": [
+      {
+       "name": "Sergio L. Alvarez Mulett",
+       "site": "RST",
+       "personId": "sergio-alvarez-mulett"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "Aaron J. Tande",
+       "site": "RST",
+       "personId": "aaron-tande"
+      },
+      {
+       "name": "Omar M. Abu Saleh",
+       "site": "RST",
+       "personId": "omar-abu-saleh"
+      },
+      {
+       "name": "Matthew P. Abdel",
+       "site": "RST",
+       "personId": "matthew-abdel"
+      },
+      {
+       "name": "Nicholas Bedard",
+       "site": "RST",
+       "personId": "nicholas-bedard"
+      },
+      {
+       "name": "Robin Patel",
+       "site": "RST",
+       "personId": "robin-patel"
+      }
+     ]
+    }
+   ],
+   "category": "BONE AND JOINT",
+   "title": "Clinical Characteristics, Management, and Outcomes of Pseudomonas aeruginosa Periprosthetic Joint Infection (PJI): A Multi-site Mayo Clinic Cohort, 1999–2025",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID=838309",
+   "id": "P-351"
+  },
+  {
+   "kind": "poster",
+   "board": "P-352",
+   "day": "2026-10-24",
+   "start": "2026-10-24T12:15:00-04:00",
+   "end": "2026-10-24T13:30:00-04:00",
+   "room": "Poster Hall B-C",
+   "roles": [
+    {
+     "role": "Presenter",
+     "people": [
+      {
+       "name": "Judith Alvarez Ortero",
+       "site": "RST",
+       "personId": "judith-alvarez-ortero"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "Jayawant Mandrekar",
+       "site": "RST",
+       "personId": "jayawant-mandrekar"
+      },
+      {
+       "name": "Melissa J. Karau",
+       "site": "RST",
+       "personId": "melissa-karau"
+      },
+      {
+       "name": "Kerryl Greenwood-Quaintance",
+       "site": "RST",
+       "personId": "kerryl-greenwood-quaintance"
+      },
+      {
+       "name": "Matthew P. Abdel",
+       "site": "RST",
+       "personId": "matthew-abdel"
+      },
+      {
+       "name": "Nicholas Bedard",
+       "site": "RST",
+       "personId": "nicholas-bedard"
+      },
+      {
+       "name": "Robin Patel",
+       "site": "RST",
+       "personId": "robin-patel"
+      }
+     ]
+    }
+   ],
+   "category": "BONE AND JOINT",
+   "title": "Evaluation of Sonicate Fluid Culture Cutoff Points for Periprosthetic Joint Infection Diagnosis in Patients Undergoing Debridement, Antibiotics and Implant Retention",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID=838359",
+   "id": "P-352"
+  },
+  {
+   "kind": "poster",
+   "board": "P-360",
+   "day": "2026-10-24",
+   "start": "2026-10-24T12:15:00-04:00",
+   "end": "2026-10-24T13:30:00-04:00",
+   "room": "Poster Hall B-C",
+   "roles": [
+    {
+     "role": "Presenter",
+     "people": [
+      {
+       "name": "Myeongji Kim",
+       "affiliation": "Division of Infectious Diseases, West Virginia University"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "Julian Maamari",
+       "site": "RST",
+       "personId": "julian-maamari"
+      },
+      {
+       "name": "Gina A. Suh",
+       "site": "RST",
+       "personId": "gina-suh"
+      },
+      {
+       "name": "Aaron J. Tande",
+       "site": "RST",
+       "personId": "aaron-tande"
+      }
+     ]
+    }
+   ],
+   "category": "BONE AND JOINT",
+   "title": "Diagnostic Performance of Imaging and Microbiologic Modalities in Sacroiliac Joint Septic Arthritis: A Retrospective Study over 22 years",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID=838379",
+   "id": "P-360"
+  },
+  {
+   "kind": "poster",
+   "board": "P-363",
+   "day": "2026-10-24",
+   "start": "2026-10-24T12:15:00-04:00",
+   "end": "2026-10-24T13:30:00-04:00",
+   "room": "Poster Hall B-C",
+   "roles": [
+    {
+     "role": "Presenter",
+     "people": [
+      {
+       "name": "Chef Stan Macaraeg",
+       "affiliation": "Rochester, MN"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "Hussam Tabaja",
+       "site": "RST",
+       "personId": "hussam-tabaja"
+      },
+      {
+       "name": "Omar M. Abu Saleh",
+       "site": "RST",
+       "personId": "omar-abu-saleh"
+      }
+     ]
+    }
+   ],
+   "category": "BONE AND JOINT",
+   "title": "The Comparison between Oral and Intravenous Antibiotic Treatment in Cutibacterium acnes Prosthetic Shoulder Joint Infections",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID=838333",
+   "id": "P-363"
+  },
+  {
+   "kind": "poster",
+   "board": "P-366",
+   "day": "2026-10-24",
+   "start": "2026-10-24T12:15:00-04:00",
+   "end": "2026-10-24T13:30:00-04:00",
+   "room": "Poster Hall B-C",
+   "roles": [
+    {
+     "role": "Presenter",
+     "people": [
+      {
+       "name": "Farzad Pourghazi",
+       "site": "RST",
+       "personId": "farzad-pourghazi"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "Takahiro Matsuo"
+      },
+      {
+       "name": "Jack W. McHugh",
+       "site": "RST",
+       "personId": "jack-mchugh"
+      },
+      {
+       "name": "Francesco Petri",
+       "site": "RST",
+       "personId": "francesco-petri"
+      },
+      {
+       "name": "Aaron J. Tande",
+       "site": "RST",
+       "personId": "aaron-tande"
+      },
+      {
+       "name": "Amin Alavi"
+      },
+      {
+       "name": "Brett Freedman",
+       "site": "RST",
+       "personId": "brett-freedman"
+      },
+      {
+       "name": "Ahmad Nassr",
+       "site": "RST",
+       "personId": "ahmad-nassr"
+      },
+      {
+       "name": "Elie Berbari",
+       "site": "RST",
+       "personId": "elie-berbari"
+      }
+     ]
+    }
+   ],
+   "category": "BONE AND JOINT",
+   "title": "Facet Joint Septic Arthritis: A 26 Year Mayo Clinic Experience",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID=838372",
+   "id": "P-366"
+  },
+  {
+   "kind": "poster",
+   "board": "P-458",
+   "day": "2026-10-24",
+   "start": "2026-10-24T12:15:00-04:00",
+   "end": "2026-10-24T13:30:00-04:00",
+   "room": "Poster Hall B-C",
+   "roles": [
+    {
+     "role": "Presenter",
+     "people": [
+      {
+       "name": "Sarwat Khalil",
+       "affiliation": "Baylor College of Medicine"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "Nischal Ranganath",
+       "site": "RST",
+       "personId": "nischal-ranganath"
+      },
+      {
+       "name": "Supavit Chesdachai",
+       "site": "RST",
+       "personId": "supavit-chesdachai"
+      }
+     ],
+     "additional": 35
+    }
+   ],
+   "category": "RESPIRATORY INFECTIONS: VIRAL AND BACTERIAL",
+   "title": "Impact of Diagnostic Stewardship of Plasma Microbial Cell-Free DNA Testing in the Evaluation of Suspected Respiratory Tract Infections in Solid Organ Transplant Recipients: Interim Analysis of the mGENiSIS Registry",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID=838368",
+   "id": "P-458"
+  },
+  {
+   "kind": "poster",
+   "board": "P-483",
+   "day": "2026-10-24",
+   "start": "2026-10-24T12:15:00-04:00",
+   "end": "2026-10-24T13:30:00-04:00",
+   "room": "Poster Hall B-C",
+   "roles": [
+    {
+     "role": "Presenter",
+     "people": [
+      {
+       "name": "FNU Aakriti",
+       "affiliation": "Medical College Baroda"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "Faiza Khalid"
+      },
+      {
+       "name": "Elena Alupei"
+      },
+      {
+       "name": "Krish Keswani"
+      },
+      {
+       "name": "Mahnoor Gelani"
+      },
+      {
+       "name": "Felicia T. Bonner-Reid"
+      },
+      {
+       "name": "Hasnain Wajeeh Saqib"
+      },
+      {
+       "name": "Amrit Arora"
+      },
+      {
+       "name": "Iman Khan"
+      },
+      {
+       "name": "Laiba Manzoor"
+      },
+      {
+       "name": "Mohammed El Shabrawi"
+      },
+      {
+       "name": "Ashesh Das",
+       "site": "RST",
+       "personId": "ashesh-das"
+      }
+     ]
+    }
+   ],
+   "category": "ENTERIC INFECTION",
+   "title": "The Glycaemic Cost of Prophylaxis: Balancing Traveler's Diarrhoea Prevention against Microbiome and Metabolic Disruption in Type 1 Diabetes",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID=838388",
+   "id": "P-483"
+  },
+  {
+   "kind": "poster",
+   "board": "P-498",
+   "day": "2026-10-24",
+   "start": "2026-10-24T12:15:00-04:00",
+   "end": "2026-10-24T13:30:00-04:00",
+   "room": "Poster Hall B-C",
+   "roles": [
+    {
+     "role": "Presenter",
+     "people": [
+      {
+       "name": "Khalid Abu-Zeinah",
+       "site": "RST",
+       "personId": "khalid-abu-zeinah"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "Sofia Molina Garcia",
+       "site": "RST",
+       "personId": "sofia-molina-garcia"
+      },
+      {
+       "name": "Sergio L. Alvarez Mulett",
+       "site": "RST",
+       "personId": "sergio-alvarez-mulett"
+      },
+      {
+       "name": "Madiha Fida",
+       "site": "RST",
+       "personId": "madiha-fida"
+      },
+      {
+       "name": "Omar M. Abu Saleh",
+       "site": "RST",
+       "personId": "omar-abu-saleh"
+      }
+     ]
+    }
+   ],
+   "category": "BACTEREMIA",
+   "title": "Outcomes of Clostridium Bloodstream Infections: A Multi-Center Retrospective Study",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID=838332",
+   "id": "P-498"
+  },
+  {
+   "kind": "poster",
+   "board": "P-512",
+   "day": "2026-10-24",
+   "start": "2026-10-24T12:15:00-04:00",
+   "end": "2026-10-24T13:30:00-04:00",
+   "room": "Poster Hall B-C",
+   "roles": [
+    {
+     "role": "Presenter",
+     "people": [
+      {
+       "name": "Meina Determan",
+       "site": "RST",
+       "personId": "meina-determan"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "Abbie L. Blunier",
+       "site": "RST",
+       "personId": "abbie-blunier"
+      },
+      {
+       "name": "Omar M. Abu Saleh",
+       "site": "RST",
+       "personId": "omar-abu-saleh"
+      },
+      {
+       "name": "Guillermo Cuervo",
+       "site": "RST",
+       "personId": "guillermo-cuervo"
+      },
+      {
+       "name": "Kristin Cole",
+       "site": "RST",
+       "personId": "kristin-cole"
+      },
+      {
+       "name": "Matthew J. Thoendel",
+       "site": "RST",
+       "personId": "matthew-thoendel"
+      },
+      {
+       "name": "Kellie Arensman Hannan",
+       "site": "RST",
+       "personId": "kellie-arensman-hannan"
+      }
+     ]
+    }
+   ],
+   "category": "BACTEREMIA",
+   "title": "Clinical Outcomes for Uncomplicated Enterococcus faecalis Bacteremia with Intravenous versus Complete or Partial Oral Therapy",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID=838396",
+   "id": "P-512"
+  },
+  {
+   "kind": "poster",
+   "board": "P-529",
+   "day": "2026-10-24",
+   "start": "2026-10-24T12:15:00-04:00",
+   "end": "2026-10-24T13:30:00-04:00",
+   "room": "Poster Hall B-C",
+   "roles": [
+    {
+     "role": "Presenter",
+     "people": [
+      {
+       "name": "Willie M. Johnson",
+       "site": "RST",
+       "personId": "willie-johnson"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "Guillermo Cuervo",
+       "site": "RST",
+       "personId": "guillermo-cuervo"
+      },
+      {
+       "name": "Abhishek J. Deshmukh",
+       "site": "RST",
+       "personId": "abhishek-deshmukh"
+      },
+      {
+       "name": "Daniel C. DeSimone",
+       "site": "RST",
+       "personId": "daniel-desimone"
+      },
+      {
+       "name": "Larry M. Baddour",
+       "site": "RST",
+       "personId": "larry-baddour"
+      },
+      {
+       "name": "Supavit Chesdachai",
+       "site": "RST",
+       "personId": "supavit-chesdachai"
+      }
+     ]
+    }
+   ],
+   "category": "BACTEREMIA",
+   "title": "Bloodstream Infections in Patients with Leadless Pacemakers: A 10-Year Experience",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID=838202",
+   "id": "P-529"
+  },
+  {
+   "kind": "poster",
+   "board": "P-531",
+   "day": "2026-10-24",
+   "start": "2026-10-24T12:15:00-04:00",
+   "end": "2026-10-24T13:30:00-04:00",
+   "room": "Poster Hall B-C",
+   "roles": [
+    {
+     "role": "Presenter",
+     "people": [
+      {
+       "name": "Joya-Rita Hindy",
+       "site": "RST",
+       "personId": "joya-rita-hindy"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "Juan Quintero-Martinez"
+      },
+      {
+       "name": "Allison LeMahieu",
+       "site": "RST",
+       "personId": "allison-lemahieu"
+      },
+      {
+       "name": "John Dillon",
+       "site": "RST",
+       "personId": "john-dillon"
+      },
+      {
+       "name": "Supavit Chesdachai",
+       "site": "RST",
+       "personId": "supavit-chesdachai"
+      },
+      {
+       "name": "Daniel C. DeSimone",
+       "site": "RST",
+       "personId": "daniel-desimone"
+      },
+      {
+       "name": "Larry M. Baddour",
+       "site": "RST",
+       "personId": "larry-baddour"
+      }
+     ]
+    }
+   ],
+   "category": "BACTEREMIA",
+   "title": "A 10-Year Population-Based Evaluation of Bloodstream Infectious in Adults Receiving Hemodialysis",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID=838412",
+   "id": "P-531"
+  },
+  {
+   "kind": "poster",
+   "board": "P-532",
+   "day": "2026-10-24",
+   "start": "2026-10-24T12:15:00-04:00",
+   "end": "2026-10-24T13:30:00-04:00",
+   "room": "Poster Hall B-C",
+   "roles": [
+    {
+     "role": "Presenter",
+     "people": [
+      {
+       "name": "Joya-Rita Hindy",
+       "site": "RST",
+       "personId": "joya-rita-hindy"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "Ryan W. W. Stevens",
+       "site": "RST",
+       "personId": "ryan-stevens"
+      },
+      {
+       "name": "Nischal Ranganath",
+       "site": "RST",
+       "personId": "nischal-ranganath"
+      },
+      {
+       "name": "Nicolynn Cole",
+       "site": "RST",
+       "personId": "nicolynn-cole"
+      },
+      {
+       "name": "Audrey N. Schuetz",
+       "site": "RST",
+       "personId": "audrey-schuetz"
+      },
+      {
+       "name": "Aditya Shah",
+       "site": "RST",
+       "personId": "aditya-shah"
+      }
+     ]
+    }
+   ],
+   "category": "BACTEREMIA",
+   "title": "Ten-Year Antimicrobial Susceptibility Testing of Pantoea agglomerans",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID=838355",
+   "id": "P-532"
+  },
+  {
+   "kind": "poster",
+   "board": "P-572",
+   "day": "2026-10-24",
+   "start": "2026-10-24T12:15:00-04:00",
+   "end": "2026-10-24T13:30:00-04:00",
+   "room": "Poster Hall B-C",
+   "roles": [
+    {
+     "role": "Presenter",
+     "people": [
+      {
+       "name": "Julian Maamari",
+       "site": "RST",
+       "personId": "julian-maamari"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "Joya-Rita Hindy",
+       "site": "RST",
+       "personId": "joya-rita-hindy"
+      },
+      {
+       "name": "Khalid Abu-Zeinah",
+       "site": "RST",
+       "personId": "khalid-abu-zeinah"
+      },
+      {
+       "name": "Omar M. Abu Saleh",
+       "site": "RST",
+       "personId": "omar-abu-saleh"
+      },
+      {
+       "name": "Daniel C. DeSimone",
+       "site": "RST",
+       "personId": "daniel-desimone"
+      },
+      {
+       "name": "Guillermo Cuervo",
+       "site": "RST",
+       "personId": "guillermo-cuervo"
+      },
+      {
+       "name": "Larry M. Baddour",
+       "site": "RST",
+       "personId": "larry-baddour"
+      },
+      {
+       "name": "Supavit Chesdachai",
+       "site": "RST",
+       "personId": "supavit-chesdachai"
+      }
+     ]
+    }
+   ],
+   "category": "ENDOCARDITIS",
+   "title": "The Forgotten Valve: A 10-year Retrospective Review of the Clinical Characteristics and Outcomes of Eustachian Valve Endocarditis",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID=838427",
+   "id": "P-572"
+  },
+  {
+   "kind": "poster",
+   "board": "P-573",
+   "day": "2026-10-24",
+   "start": "2026-10-24T12:15:00-04:00",
+   "end": "2026-10-24T13:30:00-04:00",
+   "room": "Poster Hall B-C",
+   "roles": [
+    {
+     "role": "Presenter",
+     "people": [
+      {
+       "name": "Sarwat Khalil",
+       "affiliation": "Baylor College of Medicine"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "Daniel C. DeSimone",
+       "site": "RST",
+       "personId": "daniel-desimone"
+      },
+      {
+       "name": "Nischal Ranganath",
+       "site": "RST",
+       "personId": "nischal-ranganath"
+      },
+      {
+       "name": "Omar M. Abu Saleh",
+       "site": "RST",
+       "personId": "omar-abu-saleh"
+      },
+      {
+       "name": "Sofia Molina Garcia",
+       "site": "RST",
+       "personId": "sofia-molina-garcia"
+      }
+     ],
+     "additional": 24
+    }
+   ],
+   "category": "ENDOCARDITIS",
+   "title": "Decoding Endocarditis: Early Insights into the Role of Plasma mcfDNA in Diagnosing Infective Endocarditis from the IMPACT Registry",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID=837946",
+   "id": "P-573"
+  },
+  {
+   "kind": "poster",
+   "board": "P-578",
+   "day": "2026-10-24",
+   "start": "2026-10-24T12:15:00-04:00",
+   "end": "2026-10-24T13:30:00-04:00",
+   "room": "Poster Hall B-C",
+   "roles": [
+    {
+     "role": "Presenter",
+     "people": [
+      {
+       "name": "FNU Aakriti",
+       "affiliation": "Medical College Baroda"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "Iman Khan"
+      },
+      {
+       "name": "Elena Alupei"
+      },
+      {
+       "name": "Aman Bakhsh"
+      },
+      {
+       "name": "Krish Keswani"
+      },
+      {
+       "name": "Faiza Khalid"
+      },
+      {
+       "name": "Moiz Ul Haq"
+      },
+      {
+       "name": "Laiba Manzoor"
+      },
+      {
+       "name": "Zainab Arif"
+      },
+      {
+       "name": "Amrit Arora"
+      },
+      {
+       "name": "Mohammed El Shabrawi"
+      },
+      {
+       "name": "Ashesh Das",
+       "site": "RST",
+       "personId": "ashesh-das"
+      }
+     ]
+    }
+   ],
+   "category": "CNS INFECTION",
+   "title": "The Virome-Gut-Brain Axis: Reactivated Viruses, Phage Shifts, and the New Frontier in Neurodegenerative Disease",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID=838112",
+   "id": "P-578"
+  },
+  {
+   "kind": "poster",
+   "board": "P-1369",
+   "day": "2026-10-24",
+   "start": "2026-10-24T12:15:00-04:00",
+   "end": "2026-10-24T13:30:00-04:00",
+   "room": "Poster Hall B-C",
+   "roles": [
+    {
+     "role": "Presenter",
+     "people": [
+      {
+       "name": "Marie Bruske",
+       "site": "AZ",
+       "personId": "marie-bruske"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "Janis E. Blair",
+       "site": "AZ",
+       "personId": "janis-blair"
+      },
+      {
+       "name": "Thomas Grys",
+       "site": "AZ",
+       "personId": "thomas-grys"
+      },
+      {
+       "name": "Alyssa Wallace",
+       "site": "AZ",
+       "personId": "alyssa-wallace"
+      },
+      {
+       "name": "Abigail Cottrell",
+       "site": "AZ",
+       "personId": "abigail-cottrell"
+      },
+      {
+       "name": "Saima Tisekar",
+       "site": "AZ",
+       "personId": "saima-tisekar"
+      },
+      {
+       "name": "Yehia Aboalmaaty",
+       "site": "AZ",
+       "personId": "yehia-aboalmaaty"
+      }
+     ]
+    }
+   ],
+   "category": "MEDICAL MYCOLOGY",
+   "title": "Exploring the Clinical Significance of Antifungal Minimum Inhibitory Concentrations in Culture-Proven Primary Pulmonary and Extrapulmonary Coccidioidomycosis",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID=837920",
+   "id": "P-1369"
+  },
+  {
+   "kind": "poster",
+   "board": "P-2072",
+   "day": "2026-10-24",
+   "start": "2026-10-24T12:15:00-04:00",
+   "end": "2026-10-24T13:30:00-04:00",
+   "room": "Poster Hall B-C",
+   "roles": [
+    {
+     "role": "Presenter",
+     "people": [
+      {
+       "name": "Sofia Molina Garcia",
+       "site": "RST",
+       "personId": "sofia-molina-garcia"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "Nilaya Nishad Mairal"
+      },
+      {
+       "name": "Omar M. Abu Saleh",
+       "site": "RST",
+       "personId": "omar-abu-saleh"
+      }
+     ]
+    }
+   ],
+   "category": "VIROLOGY",
+   "title": "Breakthrough and Unvaccinated Varicella-Zoster Virus CNS Infections in RZV-Eligible Adults: A Retrospective Cohort (2018–2025)",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID=838116",
+   "id": "P-2072"
+  },
+  {
+   "kind": "poster",
+   "board": "P-2120",
+   "day": "2026-10-24",
+   "start": "2026-10-24T12:15:00-04:00",
+   "end": "2026-10-24T13:30:00-04:00",
+   "room": "Poster Hall B-C",
+   "roles": [
+    {
+     "role": "Presenter",
+     "people": [
+      {
+       "name": "James F. Howick",
+       "site": "FL",
+       "personId": "james-howick"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "Kiyan Heybati",
+       "site": "RST",
+       "personId": "kiyan-heybati"
+      },
+      {
+       "name": "Guy Robinson",
+       "site": "FL",
+       "personId": "guy-robinson"
+      },
+      {
+       "name": "Bernard Gersh",
+       "site": "RST",
+       "personId": "bernard-gersh"
+      }
+     ]
+    }
+   ],
+   "category": "COVID-2019 AND CO-INFECTIONS",
+   "title": "Cardiac Troponin at Admission Identifies Three-Year Mortality after COVID-19 Hospitalization across Pandemic Eras",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID=837925",
+   "id": "P-2120"
+  },
+  {
+   "kind": "poster",
+   "board": "P-2159",
+   "day": "2026-10-24",
+   "start": "2026-10-24T12:15:00-04:00",
+   "end": "2026-10-24T13:30:00-04:00",
+   "room": "Poster Hall B-C",
+   "roles": [
+    {
+     "role": "Presenter",
+     "people": [
+      {
+       "name": "Kevin Zhou",
+       "site": "AZ",
+       "personId": "kevin-zhou"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "Alec Johnson",
+       "site": "AZ",
+       "personId": "alec-johnson"
+      },
+      {
+       "name": "Robert Orenstein",
+       "site": "AZ",
+       "personId": "robert-orenstein"
+      },
+      {
+       "name": "Jamilah Shubeilat",
+       "site": "AZ",
+       "personId": "jamilah-shubeilat"
+      },
+      {
+       "name": "Janis E. Blair",
+       "site": "AZ",
+       "personId": "janis-blair"
+      },
+      {
+       "name": "Edward Cachay",
+       "site": "AZ",
+       "personId": "edward-cachay"
+      }
+     ]
+    }
+   ],
+   "category": "INTERESTING CASES FROM THE IDWEEK CALL FOR CASES",
+   "title": "First Reported Case of Coccidioides Pacemaker Lead Endocarditis",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID=837879",
+   "id": "P-2159"
+  },
+  {
+   "kind": "virtualPoster",
+   "board": "P-252",
+   "day": "2026-10-24",
+   "start": "2026-10-24T12:15:00-04:00",
+   "end": "2026-10-24T13:30:00-04:00",
+   "room": "Virtual (IDWeek app/site)",
+   "roles": [
+    {
+     "role": "Presenter",
+     "people": [
+      {
+       "name": "Meenakshi R. Yathindra",
+       "affiliation": "NYMC- Roxborough Memorial Hospital"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "Elena Alupei"
+      },
+      {
+       "name": "Zainab Arif"
+      },
+      {
+       "name": "Iman Khan"
+      },
+      {
+       "name": "Riyakumari Patel"
+      },
+      {
+       "name": "Subhadip Ganguly"
+      },
+      {
+       "name": "Laiba Manzoor"
+      },
+      {
+       "name": "Faiza Khalid"
+      },
+      {
+       "name": "Moiz Ul Haq"
+      },
+      {
+       "name": "Mohammed El Shabrawi"
+      },
+      {
+       "name": "Emil Philip"
+      },
+      {
+       "name": "Ashesh Das",
+       "site": "RST",
+       "personId": "ashesh-das"
+      }
+     ]
+    }
+   ],
+   "category": "SEXUALLY TRANSMITTED INFECTIONS",
+   "title": "The Epidemiological Transition of Unsafe Sex-Attributable Disease in Sub-Saharan Africa: A Comparative Global Burden of Disease Analysis of Cancer and AIDS (1990–2023)",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID=838494",
+   "id": "P-252"
+  },
+  {
+   "kind": "virtualPoster",
+   "board": "P-370",
+   "day": "2026-10-24",
+   "start": "2026-10-24T12:15:00-04:00",
+   "end": "2026-10-24T13:30:00-04:00",
+   "room": "Virtual (IDWeek app/site)",
+   "roles": [
+    {
+     "role": "Presenter",
+     "people": [
+      {
+       "name": "Neel Shah",
+       "affiliation": "University of Pittsburgh Medical Center"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "Bryan Springer",
+       "site": "FL",
+       "personId": "bryan-springer"
+      },
+      {
+       "name": "Brian De Beaubien"
+      },
+      {
+       "name": "Carlos Higuera-Rueda"
+      },
+      {
+       "name": "Andrew Glassman"
+      },
+      {
+       "name": "Hari Parvataneni"
+      },
+      {
+       "name": "Kenneth Urish"
+      },
+      {
+       "name": "Nicholas Piuzzi"
+      }
+     ]
+    }
+   ],
+   "category": "BONE AND JOINT",
+   "title": "Antibiotic Exposure with Cyclic Local Antibiotic Irrigation Compared to Two-Stage Exchange Arthroplasty to Treat Periprosthetic Joint Infection: Results from Two Prospective, Randomized Trials",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID=838395",
+   "id": "P-370"
+  },
+  {
+   "kind": "virtualPoster",
+   "board": "P-2058",
+   "day": "2026-10-24",
+   "start": "2026-10-24T12:15:00-04:00",
+   "end": "2026-10-24T13:30:00-04:00",
+   "room": "Virtual (IDWeek app/site)",
+   "roles": [
+    {
+     "role": "Presenter",
+     "people": [
+      {
+       "name": "Colin Kunzweiler",
+       "affiliation": "Moderna Therapeutics, Inc."
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "John Diaz-Decaro"
+      },
+      {
+       "name": "Laura Hendrix"
+      },
+      {
+       "name": "Till Schoofs"
+      },
+      {
+       "name": "Fan Chun",
+       "site": "RST",
+       "personId": "fan-chun"
+      },
+      {
+       "name": "Yan Li",
+       "site": "RST",
+       "personId": "yan-li"
+      },
+      {
+       "name": "Jennifer St. Sauver",
+       "site": "RST",
+       "personId": "jennifer-st-sauver"
+      }
+     ]
+    }
+   ],
+   "category": "VIROLOGY",
+   "title": "Characterizing the Symptoms of Infectious Mononucleosis in an Upper Midwest Population, USA",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID=838059",
+   "id": "P-2058"
+  },
+  {
+   "kind": "talk",
+   "type": "Rapid-Fire Poster Talk",
+   "day": "2026-10-24",
+   "start": "2026-10-24T12:40:00-04:00",
+   "end": "2026-10-24T12:45:00-04:00",
+   "room": "RF Arena 1",
+   "roles": [
+    {
+     "role": "Rapid Fire Presenter",
+     "people": [
+      {
+       "name": "Meenakshi R. Yathindra",
+       "affiliation": "NYMC- Roxborough Memorial Hospital"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "Ashesh Das",
+       "site": "RST",
+       "personId": "ashesh-das"
+      }
+     ],
+     "additional": 10
+    }
+   ],
+   "session": "Rapid-Fire Poster Session: Big Data, Big Insights in HIV",
+   "note": "Also poster P-252",
+   "title": "The Epidemiological Transition of Unsafe Sex-Attributable Disease in Sub-Saharan Africa: A Comparative Global Burden of Disease Analysis of Cancer and AIDS (1990–2023)",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=presInfo&PresentationID=1894918",
+   "id": "T086"
+  },
+  {
+   "kind": "talk",
+   "type": "Symposium",
+   "day": "2026-10-24",
+   "start": "2026-10-24T13:45:00-04:00",
+   "end": "2026-10-24T15:00:00-04:00",
+   "room": "147 AB",
+   "roles": [
+    {
+     "role": "Moderator",
+     "people": [
+      {
+       "name": "Annelies Zinkernagel",
+       "affiliation": "University Hospital Zurich & University Zurich"
+      },
+      {
+       "name": "Robin Patel",
+       "site": "RST",
+       "personId": "robin-patel"
+      }
+     ]
+    },
+    {
+     "role": "Speaker",
+     "people": [
+      {
+       "name": "Daria Van Tyne",
+       "affiliation": "Department of Medicine, Division of Infectious Disease"
+      },
+      {
+       "name": "Jon Friedland",
+       "affiliation": "European Society of Clinical Microbiology & Infectious Diseases (ESCMID)"
+      },
+      {
+       "name": "Carol Kao",
+       "affiliation": "Washington University in St Louis School of Medicine"
+      }
+     ]
+    }
+   ],
+   "title": "Beyond Antibiotics: Novel Approaches for Difficult-to-Treat Infections",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=sessionInfo&PresentationID=1825407",
+   "id": "T087"
+  },
+  {
+   "kind": "talk",
+   "type": "Symposium",
+   "day": "2026-10-24",
+   "start": "2026-10-24T13:45:00-04:00",
+   "end": "2026-10-24T15:00:00-04:00",
+   "room": "152 AB",
+   "roles": [
+    {
+     "role": "Moderator",
+     "people": [
+      {
+       "name": "Sarah Hammond",
+       "affiliation": "Massachusetts General Hospital"
+      },
+      {
+       "name": "John Baddley",
+       "affiliation": "Johns Hopkins University School of Medicine"
+      }
+     ]
+    },
+    {
+     "role": "Speaker",
+     "people": [
+      {
+       "name": "John Baddley",
+       "affiliation": "Johns Hopkins University School of Medicine"
+      },
+      {
+       "name": "Mitsuru Toda",
+       "affiliation": "CDC"
+      },
+      {
+       "name": "Andrew Limper",
+       "site": "RST",
+       "personId": "andrew-limper"
+      }
+     ]
+    }
+   ],
+   "title": "Hot Topics in Pulmonary Fungal Infections",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=sessionInfo&PresentationID=1841050",
+   "id": "T088"
+  },
+  {
+   "kind": "talk",
+   "type": "Mayo Talk in Session",
+   "day": "2026-10-24",
+   "start": "2026-10-24T13:45:00-04:00",
+   "end": "2026-10-24T14:10:00-04:00",
+   "room": "152 AB",
+   "title": "Pneumocystis Pneumonia in the Non-HIV Patient: Updates on the Role of Steroids and Use of Prophylaxis",
+   "session": "Hot Topics in Pulmonary Fungal Infections",
+   "parentTitle": "Hot Topics in Pulmonary Fungal Infections",
+   "roles": [
+    {
+     "role": "Speaker",
+     "people": [
+      {
+       "name": "Andrew H. Limper",
+       "site": "RST",
+       "personId": "andrew-limper"
+      }
+     ]
+    }
+   ],
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=presInfo&PresentationID=1825525",
+   "id": "T089"
+  },
+  {
+   "kind": "talk",
+   "type": "Oral Abstract",
+   "day": "2026-10-24",
+   "start": "2026-10-24T14:30:00-04:00",
+   "end": "2026-10-24T14:45:00-04:00",
+   "room": "206",
+   "roles": [
+    {
+     "role": "Presenting Author",
+     "people": [
+      {
+       "name": "Michael J. Satlin",
+       "affiliation": "Weill Cornell Medicine"
+      }
+     ]
+    },
+    {
+     "role": "Co-authors",
+     "people": [
+      {
+       "name": "Robin Patel",
+       "site": "RST",
+       "personId": "robin-patel"
+      }
+     ],
+     "additional": 12
+    }
+   ],
+   "session": "STD Advances: GC & Beyond",
+   "title": "Clinical Performance of Assays to Predict Ciprofloxacin Resistance in Neisseria gonorrhoeae: Results from the MASTERMIND-RING Study",
+   "url": "https://idweek2026.eventscribe.net/fsPopup.asp?Mode=presInfo&PresentationID=1894721",
+   "id": "T090"
+  }
+ ],
+ "people": [
+  {
+   "id": "matthew-abdel",
+   "name": "Matthew P. Abdel",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-351",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-352",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Abdel"
+  },
+  {
+   "id": "michael-abdou",
+   "name": "Michael M. Abdou",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-201",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Abdou"
+  },
+  {
+   "id": "yehia-aboalmaaty",
+   "name": "Yehia Aboalmaaty",
+   "site": "AZ",
+   "appearances": [
+    {
+     "itemId": "P-1369",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Aboalmaaty"
+  },
+  {
+   "id": "omar-abu-saleh",
+   "name": "Omar M. Abu Saleh",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "T005",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-65",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-98",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-114",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-613",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-670",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-710",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-711",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "T045",
+     "role": "Presenter",
+     "lead": true
+    },
+    {
+     "itemId": "T048",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-1590",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-2047",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-351",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-363",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-498",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-512",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-572",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-573",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-2072",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Abu Saleh"
+  },
+  {
+   "id": "khalid-abu-zeinah",
+   "name": "Khalid Abu-Zeinah",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-498",
+     "role": "Presenter",
+     "lead": true
+    },
+    {
+     "itemId": "P-572",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Abu-Zeinah"
+  },
+  {
+   "id": "amina-akram",
+   "name": "Amina Akram",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-67",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Akram"
+  },
+  {
+   "id": "timothy-aksamit",
+   "name": "Timothy R. Aksamit",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "T003",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Aksamit"
+  },
+  {
+   "id": "shaikha-al-shokri",
+   "name": "Shaikha D. Al-Shokri",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "T005",
+     "role": "Presenting Author",
+     "lead": true
+    },
+    {
+     "itemId": "P-592",
+     "role": "Presenter",
+     "lead": true
+    },
+    {
+     "itemId": "P-1234",
+     "role": "Presenter",
+     "lead": true
+    }
+   ],
+   "lastName": "Al-Shokri"
+  },
+  {
+   "id": "abeer-almajali",
+   "name": "Abeer AlMajali",
+   "site": "AZ",
+   "appearances": [
+    {
+     "itemId": "T047",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "AlMajali"
+  },
+  {
+   "id": "meshref-alshehri",
+   "name": "Meshref Alshehri",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-2025",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Alshehri"
+  },
+  {
+   "id": "sergio-alvarez-mulett",
+   "name": "Sergio L. Alvarez Mulett",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-351",
+     "role": "Presenter",
+     "lead": true
+    },
+    {
+     "itemId": "P-498",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Alvarez Mulett"
+  },
+  {
+   "id": "judith-alvarez-ortero",
+   "name": "Judith Alvarez Ortero",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-352",
+     "role": "Presenter",
+     "lead": true
+    }
+   ],
+   "lastName": "Alvarez Ortero"
+  },
+  {
+   "id": "wentiirim-annankra",
+   "name": "Wentiirim Annankra",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "T041",
+     "role": "Presenting Author",
+     "lead": true
+    }
+   ],
+   "lastName": "Annankra"
+  },
+  {
+   "id": "kellie-arensman-hannan",
+   "name": "Kellie Arensman Hannan",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-114",
+     "role": "Presenter",
+     "lead": true
+    },
+    {
+     "itemId": "P-512",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Arensman Hannan"
+  },
+  {
+   "id": "austin-auyeung",
+   "name": "Austin B. Auyeung",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-98",
+     "role": "Presenter",
+     "lead": true
+    },
+    {
+     "itemId": "P-114",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Auyeung"
+  },
+  {
+   "id": "larry-baddour",
+   "name": "Larry M. Baddour",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-1833",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-529",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-531",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-572",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Baddour"
+  },
+  {
+   "id": "kemar-barrett",
+   "name": "Kemar O. Barrett",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-65",
+     "role": "Presenter",
+     "lead": true
+    }
+   ],
+   "lastName": "Barrett"
+  },
+  {
+   "id": "david-bayless",
+   "name": "David Bayless",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-684",
+     "role": "Presenter",
+     "lead": true
+    }
+   ],
+   "lastName": "Bayless"
+  },
+  {
+   "id": "nicholas-bedard",
+   "name": "Nicholas Bedard",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-11",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-201",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-351",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-352",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Bedard"
+  },
+  {
+   "id": "khalid-benkhadra",
+   "name": "Khalid Benkhadra",
+   "site": "AZ",
+   "appearances": [
+    {
+     "itemId": "T005",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Benkhadra"
+  },
+  {
+   "id": "elie-berbari",
+   "name": "Elie F. Berbari",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-138",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-366",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Berbari"
+  },
+  {
+   "id": "janis-blair",
+   "name": "Janis E. Blair",
+   "site": "AZ",
+   "appearances": [
+    {
+     "itemId": "P-1369",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-2159",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Blair"
+  },
+  {
+   "id": "abbie-blunier",
+   "name": "Abbie L. Blunier",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-512",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Blunier"
+  },
+  {
+   "id": "marie-bruske",
+   "name": "Marie Bruske",
+   "site": "AZ",
+   "appearances": [
+    {
+     "itemId": "P-1369",
+     "role": "Presenter",
+     "lead": true
+    }
+   ],
+   "lastName": "Bruske"
+  },
+  {
+   "id": "mark-burns",
+   "name": "Mark Burns",
+   "site": "AZ",
+   "appearances": [
+    {
+     "itemId": "T047",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-779",
+     "role": "Presenter",
+     "lead": true
+    }
+   ],
+   "lastName": "Burns"
+  },
+  {
+   "id": "edward-cachay",
+   "name": "Edward Cachay",
+   "site": "AZ",
+   "appearances": [
+    {
+     "itemId": "T047",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-779",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-2159",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Cachay"
+  },
+  {
+   "id": "juan-cespedes-pacheco",
+   "name": "Juan Cespedes Pacheco",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-629",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Cespedes Pacheco"
+  },
+  {
+   "id": "douglas-challener",
+   "name": "Douglas Challener",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-670",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-1234",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-2025",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Challener"
+  },
+  {
+   "id": "supavit-chesdachai",
+   "name": "Supavit Chesdachai",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-709",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-759",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-458",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-529",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-531",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-572",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Chesdachai"
+  },
+  {
+   "id": "claire-chorney",
+   "name": "Claire Chorney",
+   "site": "AZ",
+   "appearances": [
+    {
+     "itemId": "P-779",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Chorney"
+  },
+  {
+   "id": "fan-chun",
+   "name": "Fan Chun",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-2058",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Chun"
+  },
+  {
+   "id": "kristin-cole",
+   "name": "Kristin Cole",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-512",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Cole"
+  },
+  {
+   "id": "nicolynn-cole",
+   "name": "Nicolynn Cole",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-65",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-98",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-532",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Cole"
+  },
+  {
+   "id": "sarah-rachel-coleman",
+   "name": "Sarah Rachel Coleman",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "T041",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Coleman"
+  },
+  {
+   "id": "melissa-cortes",
+   "name": "Melissa Cortes",
+   "site": "FL",
+   "appearances": [
+    {
+     "itemId": "P-110",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Cortes"
+  },
+  {
+   "id": "abigail-cottrell",
+   "name": "Abigail Cottrell",
+   "site": "AZ",
+   "appearances": [
+    {
+     "itemId": "P-779",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-1369",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Cottrell"
+  },
+  {
+   "id": "christina-cox",
+   "name": "Christina R. Cox",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-114",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-629",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Cox"
+  },
+  {
+   "id": "guillermo-cuervo",
+   "name": "Guillermo Cuervo",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-512",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-529",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-572",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Cuervo"
+  },
+  {
+   "id": "ashesh-das",
+   "name": "Ashesh Das",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-67",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-90",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-876",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-921",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-1332",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-483",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-578",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-252",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "T086",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Das"
+  },
+  {
+   "id": "kaylianna-dellangelo",
+   "name": "Kaylianna M. Dellangelo",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-670",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Dellangelo"
+  },
+  {
+   "id": "sharon-deml",
+   "name": "Sharon Deml",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-710",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Deml"
+  },
+  {
+   "id": "abhishek-deshmukh",
+   "name": "Abhishek J. Deshmukh",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-529",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Deshmukh"
+  },
+  {
+   "id": "daniel-desimone",
+   "name": "Daniel C. DeSimone",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-529",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-531",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-572",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-573",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "DeSimone"
+  },
+  {
+   "id": "meina-determan",
+   "name": "Meina Determan",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-512",
+     "role": "Presenter",
+     "lead": true
+    }
+   ],
+   "lastName": "Determan"
+  },
+  {
+   "id": "drew-dickinson",
+   "name": "Drew T. Dickinson",
+   "site": "AZ",
+   "appearances": [
+    {
+     "itemId": "T004",
+     "role": "Panelist",
+     "lead": true
+    },
+    {
+     "itemId": "P-1267",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "T047",
+     "role": "Presenting Author",
+     "lead": true
+    }
+   ],
+   "lastName": "Dickinson"
+  },
+  {
+   "id": "john-dillon",
+   "name": "John Dillon",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-531",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Dillon"
+  },
+  {
+   "id": "mark-dollar",
+   "name": "Mark Dollar",
+   "site": "AZ",
+   "appearances": [
+    {
+     "itemId": "P-779",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Dollar"
+  },
+  {
+   "id": "igor-dumic",
+   "name": "Igor Dumic",
+   "site": "MCHS",
+   "appearances": [
+    {
+     "itemId": "P-110",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Dumic"
+  },
+  {
+   "id": "michael-edwards",
+   "name": "Michael Edwards",
+   "site": "FL",
+   "appearances": [
+    {
+     "itemId": "T046",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Edwards"
+  },
+  {
+   "id": "elizabeth-ann-enninga",
+   "name": "Elizabeth Ann L. Enninga",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "T062",
+     "role": "Speaker",
+     "lead": true
+    },
+    {
+     "itemId": "T063",
+     "role": "Speaker",
+     "lead": true
+    }
+   ],
+   "lastName": "Enninga"
+  },
+  {
+   "id": "madiha-fida",
+   "name": "Madiha Fida",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-670",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-2047",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-498",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Fida"
+  },
+  {
+   "id": "brett-freedman",
+   "name": "Brett Freedman",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-138",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-366",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Freedman"
+  },
+  {
+   "id": "john-freemore",
+   "name": "John Freemore",
+   "site": "AZ",
+   "appearances": [
+    {
+     "itemId": "T047",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Freemore"
+  },
+  {
+   "id": "maria-gallup",
+   "name": "Maria C. Gallup",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "T041",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Gallup"
+  },
+  {
+   "id": "tatjana-gavrancic",
+   "name": "Tatjana Gavrancic",
+   "site": "FL",
+   "appearances": [
+    {
+     "itemId": "P-110",
+     "role": "Presenter",
+     "lead": true
+    }
+   ],
+   "lastName": "Gavrancic"
+  },
+  {
+   "id": "bernard-gersh",
+   "name": "Bernard Gersh",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-2120",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Gersh"
+  },
+  {
+   "id": "alexei-gonzalez-estrada",
+   "name": "Alexei Gonzalez-Estrada",
+   "site": "AZ",
+   "appearances": [
+    {
+     "itemId": "T046",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Gonzalez-Estrada"
+  },
+  {
+   "id": "kerryl-greenwood-quaintance",
+   "name": "Kerryl Greenwood-Quaintance",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-201",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-352",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Greenwood-Quaintance"
+  },
+  {
+   "id": "tina-gronquist",
+   "name": "Tina Gronquist",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-716",
+     "role": "Presenter",
+     "lead": true
+    }
+   ],
+   "lastName": "Gronquist"
+  },
+  {
+   "id": "thomas-grys",
+   "name": "Thomas Grys",
+   "site": "AZ",
+   "appearances": [
+    {
+     "itemId": "P-1369",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Grys"
+  },
+  {
+   "id": "kristine-hanson",
+   "name": "Kristine Hanson",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "T046",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Hanson"
+  },
+  {
+   "id": "william-harmsen",
+   "name": "William Harmsen",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-592",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Harmsen"
+  },
+  {
+   "id": "leslie-hassett",
+   "name": "Leslie Hassett",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "T005",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Hassett"
+  },
+  {
+   "id": "sebastian-herren",
+   "name": "Sebastian Herren",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-129",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Herren"
+  },
+  {
+   "id": "kiyan-heybati",
+   "name": "Kiyan Heybati",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-2120",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Heybati"
+  },
+  {
+   "id": "joya-rita-hindy",
+   "name": "Joya-Rita Hindy",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-531",
+     "role": "Presenter",
+     "lead": true
+    },
+    {
+     "itemId": "P-532",
+     "role": "Presenter",
+     "lead": true
+    },
+    {
+     "itemId": "P-572",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Hindy"
+  },
+  {
+   "id": "james-howick",
+   "name": "James F. Howick",
+   "site": "FL",
+   "appearances": [
+    {
+     "itemId": "P-2120",
+     "role": "Presenter",
+     "lead": true
+    }
+   ],
+   "lastName": "Howick"
+  },
+  {
+   "id": "rita-igwilo-alaneme",
+   "name": "Rita Igwilo-Alaneme",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-711",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Igwilo-Alaneme"
+  },
+  {
+   "id": "dan-ilges",
+   "name": "Dan Ilges",
+   "site": "AZ",
+   "appearances": [
+    {
+     "itemId": "P-1267",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "T047",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "T059",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Ilges"
+  },
+  {
+   "id": "alec-johnson",
+   "name": "Alec Johnson",
+   "site": "AZ",
+   "appearances": [
+    {
+     "itemId": "P-2159",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Johnson"
+  },
+  {
+   "id": "tanner-johnson",
+   "name": "Tanner Johnson",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-1234",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Johnson"
+  },
+  {
+   "id": "willie-johnson",
+   "name": "Willie M. Johnson",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-670",
+     "role": "Presenter",
+     "lead": true
+    },
+    {
+     "itemId": "P-529",
+     "role": "Presenter",
+     "lead": true
+    }
+   ],
+   "lastName": "Johnson"
+  },
+  {
+   "id": "melissa-karau",
+   "name": "Melissa J. Karau",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-11",
+     "role": "Presenter",
+     "lead": true
+    },
+    {
+     "itemId": "P-129",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-352",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Karau"
+  },
+  {
+   "id": "melissa-kerkelis",
+   "name": "Melissa Kerkelis",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-613",
+     "role": "Presenter",
+     "lead": true
+    },
+    {
+     "itemId": "T048",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Kerkelis"
+  },
+  {
+   "id": "rachel-kielp",
+   "name": "Rachel Kielp",
+   "site": "AZ",
+   "appearances": [
+    {
+     "itemId": "T047",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Kielp"
+  },
+  {
+   "id": "kirstin-kooda",
+   "name": "Kirstin Kooda",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-592",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Kooda"
+  },
+  {
+   "id": "allison-lemahieu",
+   "name": "Allison LeMahieu",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-531",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "LeMahieu"
+  },
+  {
+   "id": "sarah-lessard",
+   "name": "Sarah R. Lessard",
+   "site": "MCHS",
+   "appearances": [
+    {
+     "itemId": "T046",
+     "role": "Presenting Author",
+     "lead": true
+    }
+   ],
+   "lastName": "Lessard"
+  },
+  {
+   "id": "emily-ruth-levy",
+   "name": "Emily Ruth. Levy",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "T041",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Levy"
+  },
+  {
+   "id": "yan-li",
+   "name": "Yan Li",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-2058",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Li"
+  },
+  {
+   "id": "andrew-limper",
+   "name": "Andrew H. Limper",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "T088",
+     "role": "Speaker",
+     "lead": true
+    },
+    {
+     "itemId": "T089",
+     "role": "Speaker",
+     "lead": true
+    }
+   ],
+   "lastName": "Limper"
+  },
+  {
+   "id": "tsung-li-lin",
+   "name": "Tsung-Li Lin",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-129",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Lin"
+  },
+  {
+   "id": "julian-maamari",
+   "name": "Julian Maamari",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "T005",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-360",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-572",
+     "role": "Presenter",
+     "lead": true
+    }
+   ],
+   "lastName": "Maamari"
+  },
+  {
+   "id": "theresa-madigan",
+   "name": "Theresa Madigan",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-2016",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Madigan"
+  },
+  {
+   "id": "benjamin-mallinger",
+   "name": "Benjamin D. Mallinger",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-201",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Mallinger"
+  },
+  {
+   "id": "jayawant-mandrekar",
+   "name": "Jayawant Mandrekar",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-352",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Mandrekar"
+  },
+  {
+   "id": "peter-martin",
+   "name": "Peter Martin",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-1234",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Martin"
+  },
+  {
+   "id": "jack-mchugh",
+   "name": "Jack W. McHugh",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-684",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-710",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-366",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "McHugh"
+  },
+  {
+   "id": "megan-misgen",
+   "name": "Megan Misgen",
+   "site": "MCHS",
+   "appearances": [
+    {
+     "itemId": "T041",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Misgen"
+  },
+  {
+   "id": "hayden-mitteer",
+   "name": "Hayden Mitteer",
+   "site": "AZ",
+   "appearances": [
+    {
+     "itemId": "P-1267",
+     "role": "Presenter",
+     "lead": true
+    }
+   ],
+   "lastName": "Mitteer"
+  },
+  {
+   "id": "mouhand-mohamed",
+   "name": "Mouhand Mohamed",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "T005",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Mohamed"
+  },
+  {
+   "id": "sofia-molina-garcia",
+   "name": "Sofia Molina Garcia",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-98",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-1288",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "T048",
+     "role": "Presenting Author",
+     "lead": true
+    },
+    {
+     "itemId": "P-498",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-573",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-2072",
+     "role": "Presenter",
+     "lead": true
+    }
+   ],
+   "lastName": "Molina Garcia"
+  },
+  {
+   "id": "abdallah-mughrabi",
+   "name": "Abdallah Mughrabi",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-2025",
+     "role": "Presenter",
+     "lead": true
+    }
+   ],
+   "lastName": "Mughrabi"
+  },
+  {
+   "id": "aleksandra-murawska-baptista",
+   "name": "Aleksandra Murawska Baptista",
+   "site": "FL",
+   "appearances": [
+    {
+     "itemId": "P-110",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Murawska Baptista"
+  },
+  {
+   "id": "sandhya-nagarakanti",
+   "name": "Sandhya Nagarakanti",
+   "site": "AZ",
+   "appearances": [
+    {
+     "itemId": "T047",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Nagarakanti"
+  },
+  {
+   "id": "ahmad-nassr",
+   "name": "Ahmad Nassr",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-138",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-366",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Nassr"
+  },
+  {
+   "id": "christina-oconnor",
+   "name": "Christina G. O'Connor",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-65",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-98",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-1234",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "T037",
+     "role": "Speaker",
+     "lead": true
+    },
+    {
+     "itemId": "T038",
+     "role": "Speaker",
+     "lead": true
+    }
+   ],
+   "lastName": "O'Connor"
+  },
+  {
+   "id": "kathleen-oconnor",
+   "name": "Kathleen O'Connor",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-201",
+     "role": "Presenter",
+     "lead": true
+    }
+   ],
+   "lastName": "O'Connor"
+  },
+  {
+   "id": "robert-orenstein",
+   "name": "Robert Orenstein",
+   "site": "AZ",
+   "appearances": [
+    {
+     "itemId": "P-779",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-2159",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Orenstein"
+  },
+  {
+   "id": "ricardo-pagan",
+   "name": "Ricardo Pagan",
+   "site": "FL",
+   "appearances": [
+    {
+     "itemId": "P-110",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Pagan"
+  },
+  {
+   "id": "robin-patel",
+   "name": "Robin Patel",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-11",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-129",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-592",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-614",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "T035",
+     "role": "Speaker",
+     "lead": true
+    },
+    {
+     "itemId": "T036",
+     "role": "Speaker",
+     "lead": true
+    },
+    {
+     "itemId": "T042",
+     "role": "Moderator",
+     "lead": true
+    },
+    {
+     "itemId": "P-201",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-351",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-352",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "T087",
+     "role": "Moderator",
+     "lead": true
+    },
+    {
+     "itemId": "T090",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Patel"
+  },
+  {
+   "id": "francesco-petri",
+   "name": "Francesco Petri",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-366",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Petri"
+  },
+  {
+   "id": "erica-phelps",
+   "name": "Erica Phelps",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "T041",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Phelps"
+  },
+  {
+   "id": "alvaro-pinto-rodriguez",
+   "name": "Alvaro D. Pinto-Rodriguez",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-1418",
+     "role": "Presenter",
+     "lead": true
+    }
+   ],
+   "lastName": "Pinto-Rodriguez"
+  },
+  {
+   "id": "maria-alyssa-policarpio",
+   "name": "Maria Alyssa Y. Policarpio",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-114",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Policarpio"
+  },
+  {
+   "id": "steven-porter",
+   "name": "Steven Porter",
+   "site": "FL",
+   "appearances": [
+    {
+     "itemId": "T046",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Porter"
+  },
+  {
+   "id": "farzad-pourghazi",
+   "name": "Farzad Pourghazi",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-138",
+     "role": "Presenter",
+     "lead": true
+    },
+    {
+     "itemId": "P-366",
+     "role": "Presenter",
+     "lead": true
+    }
+   ],
+   "lastName": "Pourghazi"
+  },
+  {
+   "id": "bobbi-pritt",
+   "name": "Bobbi S. Pritt",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-670",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-1590",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Pritt"
+  },
+  {
+   "id": "emily-puumala",
+   "name": "Emily Puumala",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-65",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Puumala"
+  },
+  {
+   "id": "nipunie-rajapakse",
+   "name": "Nipunie S. Rajapakse",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-629",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Rajapakse"
+  },
+  {
+   "id": "nischal-ranganath",
+   "name": "Nischal Ranganath",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-709",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-759",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-760",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "T048",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-458",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-532",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-573",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Ranganath"
+  },
+  {
+   "id": "raymund-razonable",
+   "name": "Raymund R. Razonable",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "T002",
+     "role": "Workshop Speaker",
+     "lead": true
+    },
+    {
+     "itemId": "P-709",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-759",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-760",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "T044",
+     "role": "Speaker",
+     "lead": true
+    },
+    {
+     "itemId": "P-2025",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Razonable"
+  },
+  {
+   "id": "christopher-reis",
+   "name": "Christopher Reis",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-2016",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Reis"
+  },
+  {
+   "id": "elizabeth-ristagno",
+   "name": "Elizabeth H. Ristagno",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-629",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Ristagno"
+  },
+  {
+   "id": "guy-robinson",
+   "name": "Guy Robinson",
+   "site": "FL",
+   "appearances": [
+    {
+     "itemId": "P-2120",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Robinson"
+  },
+  {
+   "id": "libardo-rueda-prada",
+   "name": "Libardo Rueda Prada",
+   "site": "FL",
+   "appearances": [
+    {
+     "itemId": "P-110",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Rueda Prada"
+  },
+  {
+   "id": "emmanuella-salia",
+   "name": "Emmanuella L. Salia",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "T041",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Salia"
+  },
+  {
+   "id": "ayesha-samreen",
+   "name": "Ayesha Samreen",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-1590",
+     "role": "Presenter",
+     "lead": true
+    }
+   ],
+   "lastName": "Samreen"
+  },
+  {
+   "id": "lindsey-sangaralingham",
+   "name": "Lindsey Sangaralingham",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "T046",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Sangaralingham"
+  },
+  {
+   "id": "audrey-schuetz",
+   "name": "Audrey N. Schuetz",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-65",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-98",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-532",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Schuetz"
+  },
+  {
+   "id": "carrie-schultz",
+   "name": "Carrie Schultz",
+   "site": "FL",
+   "appearances": [
+    {
+     "itemId": "P-110",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Schultz"
+  },
+  {
+   "id": "sidney-seiwert",
+   "name": "Sidney Seiwert",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-629",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Seiwert"
+  },
+  {
+   "id": "aditya-shah",
+   "name": "Aditya Shah",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-532",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Shah"
+  },
+  {
+   "id": "mohamad-shieb",
+   "name": "Mohamad Shieb",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-629",
+     "role": "Presenter",
+     "lead": true
+    }
+   ],
+   "lastName": "Shieb"
+  },
+  {
+   "id": "jamilah-shubeilat",
+   "name": "Jamilah Shubeilat",
+   "site": "AZ",
+   "appearances": [
+    {
+     "itemId": "P-2159",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Shubeilat"
+  },
+  {
+   "id": "patricia-simner",
+   "name": "Patricia Simner",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "T000",
+     "role": "Workshop Speaker",
+     "lead": true
+    },
+    {
+     "itemId": "T001",
+     "role": "Workshop Speaker",
+     "lead": true
+    },
+    {
+     "itemId": "P-30",
+     "role": "Presenter",
+     "lead": true
+    },
+    {
+     "itemId": "P-65",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-98",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-149",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-614",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-716",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-1507",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "T039",
+     "role": "Moderator",
+     "lead": true
+    },
+    {
+     "itemId": "T039",
+     "role": "Speaker",
+     "lead": true
+    },
+    {
+     "itemId": "T040",
+     "role": "Speaker",
+     "lead": true
+    },
+    {
+     "itemId": "T048",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Simner"
+  },
+  {
+   "id": "zahra-sohani",
+   "name": "Zahra Sohani",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-710",
+     "role": "Presenter",
+     "lead": true
+    }
+   ],
+   "lastName": "Sohani"
+  },
+  {
+   "id": "lisa-speiser",
+   "name": "Lisa Speiser",
+   "site": "AZ",
+   "appearances": [
+    {
+     "itemId": "P-779",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Speiser"
+  },
+  {
+   "id": "bryan-springer",
+   "name": "Bryan Springer",
+   "site": "FL",
+   "appearances": [
+    {
+     "itemId": "P-370",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Springer"
+  },
+  {
+   "id": "jennifer-st-sauver",
+   "name": "Jennifer St. Sauver",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-2058",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "St. Sauver"
+  },
+  {
+   "id": "raymond-stetson",
+   "name": "Raymond Stetson",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "T041",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Stetson"
+  },
+  {
+   "id": "ryan-stevens",
+   "name": "Ryan W. W. Stevens",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-114",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-532",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Stevens"
+  },
+  {
+   "id": "gina-suh",
+   "name": "Gina A. Suh",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "T042",
+     "role": "Speaker",
+     "lead": true
+    },
+    {
+     "itemId": "T043",
+     "role": "Speaker",
+     "lead": true
+    },
+    {
+     "itemId": "P-360",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Suh"
+  },
+  {
+   "id": "vaille-swenson",
+   "name": "Vaille Swenson",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-716",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Swenson"
+  },
+  {
+   "id": "hussam-tabaja",
+   "name": "Hussam Tabaja",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-363",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Tabaja"
+  },
+  {
+   "id": "muhammad-waqas-tahir",
+   "name": "Muhammad Waqas Tahir",
+   "site": "FL",
+   "appearances": [
+    {
+     "itemId": "P-110",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Tahir"
+  },
+  {
+   "id": "aaron-tande",
+   "name": "Aaron J. Tande",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-138",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "T060",
+     "role": "Speaker",
+     "lead": true
+    },
+    {
+     "itemId": "T061",
+     "role": "Speaker",
+     "lead": true
+    },
+    {
+     "itemId": "P-351",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-360",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-366",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Tande"
+  },
+  {
+   "id": "melissa-tapia",
+   "name": "Melissa Tapia",
+   "site": "AZ",
+   "appearances": [
+    {
+     "itemId": "T047",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Tapia"
+  },
+  {
+   "id": "viengneesee-thao",
+   "name": "Viengneesee Thao",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "T046",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Thao"
+  },
+  {
+   "id": "matthew-thoendel",
+   "name": "Matthew J. Thoendel",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-512",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Thoendel"
+  },
+  {
+   "id": "saima-tisekar",
+   "name": "Saima Tisekar",
+   "site": "AZ",
+   "appearances": [
+    {
+     "itemId": "P-1369",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Tisekar"
+  },
+  {
+   "id": "joshua-tucker",
+   "name": "Joshua D. Tucker",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-201",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Tucker"
+  },
+  {
+   "id": "paschalis-vergidis",
+   "name": "Paschalis Vergidis",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-592",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-684",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-711",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Vergidis"
+  },
+  {
+   "id": "abinash-virk",
+   "name": "Abinash Virk",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-592",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-1234",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "T046",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Virk"
+  },
+  {
+   "id": "alyssa-wallace",
+   "name": "Alyssa Wallace",
+   "site": "AZ",
+   "appearances": [
+    {
+     "itemId": "P-1369",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Wallace"
+  },
+  {
+   "id": "nancy-wengenack",
+   "name": "Nancy Wengenack",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-629",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-684",
+     "role": "Co-authors",
+     "lead": false
+    },
+    {
+     "itemId": "P-710",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Wengenack"
+  },
+  {
+   "id": "jayden-wilhelm",
+   "name": "Jayden M. Wilhelm",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "T041",
+     "role": "Co-authors",
+     "lead": false
+    }
+   ],
+   "lastName": "Wilhelm"
+  },
+  {
+   "id": "duncan-works",
+   "name": "Duncan Works",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-808",
+     "role": "Presenter",
+     "lead": true
+    }
+   ],
+   "lastName": "Works"
+  },
+  {
+   "id": "shari-zaslow",
+   "name": "Shari J. Zaslow",
+   "site": "RST",
+   "appearances": [
+    {
+     "itemId": "P-2047",
+     "role": "Presenter",
+     "lead": true
+    }
+   ],
+   "lastName": "Zaslow"
+  },
+  {
+   "id": "kevin-zhou",
+   "name": "Kevin Zhou",
+   "site": "AZ",
+   "appearances": [
+    {
+     "itemId": "P-2159",
+     "role": "Presenter",
+     "lead": true
+    }
+   ],
+   "lastName": "Zhou"
+  }
+ ]
+}

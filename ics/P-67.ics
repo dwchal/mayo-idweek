@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Mayo IDWeek//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:The Scar and the Soil: How Munitions and Heavy Metals Could 
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:P-67@mayo-idweek
+DTSTAMP:20261014T120000Z
+DTSTART:20261022T161500Z
+DTEND:20261022T173000Z
+SUMMARY:P-67: The Scar and the Soil: How Munitions and Heavy Metals Could D
+ rive Hyper-Mutation in War Zones
+LOCATION:Poster Hall B-C\, board P-67 · IDWeek 2026
+DESCRIPTION:Mayo: Amina Akram\, Ashesh Das\nhttps://dwchal.github.io/mayo-i
+ dweek/#/item/P-67
+URL:https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID
+ =839689
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:P-67: The Scar and the Soil: How Munitions and Heavy Metals Cou
+ ld Drive Hyper-Mutation in War Zones
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Mayo IDWeek//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:First Reported Case of Coccidioides Pacemaker Lead Endocardi
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:P-2159@mayo-idweek
+DTSTAMP:20261014T120000Z
+DTSTART:20261024T161500Z
+DTEND:20261024T173000Z
+SUMMARY:P-2159: First Reported Case of Coccidioides Pacemaker Lead Endocard
+ itis
+LOCATION:Poster Hall B-C\, board P-2159 · IDWeek 2026
+DESCRIPTION:Mayo: Kevin Zhou\, Alec Johnson\, Robert Orenstein\, Jamilah Sh
+ ubeilat\, Janis E. Blair\, Edward Cachay\nhttps://dwchal.github.io/mayo-id
+ week/#/item/P-2159
+URL:https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID
+ =837879
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:P-2159: First Reported Case of Coccidioides Pacemaker Lead Endo
+ carditis
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

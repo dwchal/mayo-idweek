@@ -1,0 +1,15 @@
+{
+  "name": "Mayo Clinic at IDWeek 2026",
+  "short_name": "Mayo IDWeek",
+  "description": "Every Mayo Clinic presentation at IDWeek 2026.",
+  "start_url": "./#/schedule",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f2f2f7",
+  "theme_color": "#0057b8",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-1024.png", "sizes": "1024x1024", "type": "image/png", "purpose": "any maskable" }
+  ]
+}

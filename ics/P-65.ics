@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Mayo IDWeek//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Retrospective analysis of carbapenem resistant Pseudomonas a
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:P-65@mayo-idweek
+DTSTAMP:20261014T120000Z
+DTSTART:20261022T161500Z
+DTEND:20261022T173000Z
+SUMMARY:P-65: Retrospective analysis of carbapenem resistant Pseudomonas ae
+ ruginosa from a tertiary hospital and reference laboratory\, 2023-2025
+LOCATION:Poster Hall B-C\, board P-65 · IDWeek 2026
+DESCRIPTION:Mayo: Kemar O. Barrett\, Emily Puumala\, Christina G. O'Connor\
+ , Nicolynn Cole\, Patricia Simner\, Audrey N. Schuetz\, Omar M. Abu Saleh\
+ nhttps://dwchal.github.io/mayo-idweek/#/item/P-65
+URL:https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID
+ =839592
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:P-65: Retrospective analysis of carbapenem resistant Pseudomona
+ s aeruginosa from a tertiary hospital and reference laboratory\, 2023-2025
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

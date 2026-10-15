@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Mayo IDWeek//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Revisiting the Phenotypes of Cytomegalovirus (CMV) Infection
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:P-2025@mayo-idweek
+DTSTAMP:20261014T120000Z
+DTSTART:20261023T161500Z
+DTEND:20261023T173000Z
+SUMMARY:P-2025: Revisiting the Phenotypes of Cytomegalovirus (CMV) Infectio
+ n in Solid Organ Transplant (SOT) Recipients Using Natural Language Proces
+ sing
+LOCATION:Poster Hall B-C\, board P-2025 · IDWeek 2026
+DESCRIPTION:Mayo: Abdallah Mughrabi\, Douglas Challener\, Meshref Alshehri\
+ , Raymund R. Razonable\nhttps://dwchal.github.io/mayo-idweek/#/item/P-2025
+URL:https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID
+ =838616
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:P-2025: Revisiting the Phenotypes of Cytomegalovirus (CMV) Infe
+ ction in Solid Organ Transplant (SOT) Recipients Using Natural Language Pr
+ ocessing
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

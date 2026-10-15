@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Mayo IDWeek//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Evaluation of Sonicate Fluid Culture Cutoff Points for Perip
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:P-352@mayo-idweek
+DTSTAMP:20261014T120000Z
+DTSTART:20261024T161500Z
+DTEND:20261024T173000Z
+SUMMARY:P-352: Evaluation of Sonicate Fluid Culture Cutoff Points for Perip
+ rosthetic Joint Infection Diagnosis in Patients Undergoing Debridement\, A
+ ntibiotics and Implant Retention
+LOCATION:Poster Hall B-C\, board P-352 · IDWeek 2026
+DESCRIPTION:Mayo: Judith Alvarez Ortero\, Jayawant Mandrekar\, Melissa J. K
+ arau\, Kerryl Greenwood-Quaintance\, Matthew P. Abdel\, Nicholas Bedard\, 
+ Robin Patel\nhttps://dwchal.github.io/mayo-idweek/#/item/P-352
+URL:https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID
+ =838359
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:P-352: Evaluation of Sonicate Fluid Culture Cutoff Points for P
+ eriprosthetic Joint Infection Diagnosis in Patients Undergoing Debridement
+ \, Antibiotics and Implant Retention
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

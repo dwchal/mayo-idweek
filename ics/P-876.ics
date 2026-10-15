@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Mayo IDWeek//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Temporal Trends in Shigellosis Mortality and Disability-Adju
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:P-876@mayo-idweek
+DTSTAMP:20261014T120000Z
+DTSTART:20261022T161500Z
+DTEND:20261022T173000Z
+SUMMARY:P-876: Temporal Trends in Shigellosis Mortality and Disability-Adju
+ sted Life Years in the United States\, 1990–2023: A Joinpoint Regression
+  Analysis of Global Burden of Disease 2023 Study
+LOCATION:Virtual (IDWeek app/site) · IDWeek 2026
+DESCRIPTION:Mayo: Ashesh Das\nhttps://dwchal.github.io/mayo-idweek/#/item/P
+ -876
+URL:https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID
+ =839695
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:P-876: Temporal Trends in Shigellosis Mortality and Disability-
+ Adjusted Life Years in the United States\, 1990–2023: A Joinpoint Regres
+ sion Analysis of Global Burden of Disease 2023 Study
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

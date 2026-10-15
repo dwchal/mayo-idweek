@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Mayo IDWeek//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Impact of Diagnostic Stewardship of Plasma Microbial Cell-Fr
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:P-458@mayo-idweek
+DTSTAMP:20261014T120000Z
+DTSTART:20261024T161500Z
+DTEND:20261024T173000Z
+SUMMARY:P-458: Impact of Diagnostic Stewardship of Plasma Microbial Cell-Fr
+ ee DNA Testing in the Evaluation of Suspected Respiratory Tract Infections
+  in Solid Organ Transplant Recipients: Interim Analysis of the mGENiSIS Re
+ gistry
+LOCATION:Poster Hall B-C\, board P-458 · IDWeek 2026
+DESCRIPTION:Mayo: Nischal Ranganath\, Supavit Chesdachai\nhttps://dwchal.gi
+ thub.io/mayo-idweek/#/item/P-458
+URL:https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID
+ =838368
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:P-458: Impact of Diagnostic Stewardship of Plasma Microbial Cel
+ l-Free DNA Testing in the Evaluation of Suspected Respiratory Tract Infect
+ ions in Solid Organ Transplant Recipients: Interim Analysis of the mGENiSI
+ S Registry
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

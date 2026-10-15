@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Mayo IDWeek//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Breakthrough and Unvaccinated Varicella-Zoster Virus CNS Inf
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:P-2072@mayo-idweek
+DTSTAMP:20261014T120000Z
+DTSTART:20261024T161500Z
+DTEND:20261024T173000Z
+SUMMARY:P-2072: Breakthrough and Unvaccinated Varicella-Zoster Virus CNS In
+ fections in RZV-Eligible Adults: A Retrospective Cohort (2018–2025)
+LOCATION:Poster Hall B-C\, board P-2072 · IDWeek 2026
+DESCRIPTION:Mayo: Sofia Molina Garcia\, Omar M. Abu Saleh\nhttps://dwchal.g
+ ithub.io/mayo-idweek/#/item/P-2072
+URL:https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID
+ =838116
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:P-2072: Breakthrough and Unvaccinated Varicella-Zoster Virus CN
+ S Infections in RZV-Eligible Adults: A Retrospective Cohort (2018–2025)
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

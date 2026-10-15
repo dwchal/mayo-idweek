@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Mayo IDWeek//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Development of an Updated Global Framework for Antibiotic Sp
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:T059@mayo-idweek
+DTSTAMP:20261014T120000Z
+DTSTART:20261023T194500Z
+DTEND:20261023T200000Z
+SUMMARY:Development of an Updated Global Framework for Antibiotic Spectrum 
+ Coverage (ASC) Scoring and Days of Antimicrobial Spectrum Coverage (DASC):
+  First Stage of an International Modified Delphi Study
+LOCATION:209 ABC · IDWeek 2026
+DESCRIPTION:Mayo: Dan Ilges\nhttps://dwchal.github.io/mayo-idweek/#/item/T0
+ 59
+URL:https://idweek2026.eventscribe.net/fsPopup.asp?Mode=presInfo&Presentati
+ onID=1894773
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Development of an Updated Global Framework for Antibiotic Spect
+ rum Coverage (ASC) Scoring and Days of Antimicrobial Spectrum Coverage (DA
+ SC): First Stage of an International Modified Delphi Study
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

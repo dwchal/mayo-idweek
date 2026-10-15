@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Mayo IDWeek//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Preclinical Assessment of Phage K Therapy Strategies for Tre
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:P-129@mayo-idweek
+DTSTAMP:20261014T120000Z
+DTSTART:20261022T161500Z
+DTEND:20261022T173000Z
+SUMMARY:P-129: Preclinical Assessment of Phage K Therapy Strategies for Tre
+ atment of Methicillin-Resistant Staphylococcus epidermidis Foreign Body-As
+ sociated Osteomyelitis Requiring Revision Surgery in Rats
+LOCATION:Poster Hall B-C\, board P-129 · IDWeek 2026
+DESCRIPTION:Mayo: Tsung-Li Lin\, Sebastian Herren\, Melissa J. Karau\, Robi
+ n Patel\nhttps://dwchal.github.io/mayo-idweek/#/item/P-129
+URL:https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID
+ =839509
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:P-129: Preclinical Assessment of Phage K Therapy Strategies for
+  Treatment of Methicillin-Resistant Staphylococcus epidermidis Foreign Bod
+ y-Associated Osteomyelitis Requiring Revision Surgery in Rats
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

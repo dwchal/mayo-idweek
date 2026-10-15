@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Mayo IDWeek//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Clinical Characteristics\, Management\, and Outcomes of Babesi
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:P-670@mayo-idweek
+DTSTAMP:20261014T120000Z
+DTSTART:20261022T161500Z
+DTEND:20261022T173000Z
+SUMMARY:P-670: Clinical Characteristics\, Management\, and Outcomes of Babe
+ siosis in the Upper Midwest: A 20 Year Retrospective Cohort Study
+LOCATION:Poster Hall B-C\, board P-670 · IDWeek 2026
+DESCRIPTION:Mayo: Willie M. Johnson\, Madiha Fida\, Douglas Challener\, Kay
+ lianna M. Dellangelo\, Omar M. Abu Saleh\, Bobbi S. Pritt\nhttps://dwchal.
+ github.io/mayo-idweek/#/item/P-670
+URL:https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID
+ =839462
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:P-670: Clinical Characteristics\, Management\, and Outcomes of 
+ Babesiosis in the Upper Midwest: A 20 Year Retrospective Cohort Study
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Mayo IDWeek//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Development of Structured Case Management and Infectious Dis
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:T047@mayo-idweek
+DTSTAMP:20261014T120000Z
+DTSTART:20261023T150600Z
+DTEND:20261023T151800Z
+SUMMARY:Development of Structured Case Management and Infectious Diseases P
+ harmacist Review of OPAT Orders at Hospital Discharge
+LOCATION:102 AB · IDWeek 2026
+DESCRIPTION:Mayo: Drew T. Dickinson\, Melissa Tapia\, John Freemore\, Abeer
+  AlMajali\, Mark Burns\, Edward Cachay\, Rachel Kielp\, Sandhya Nagarakant
+ i\, Dan Ilges\nhttps://dwchal.github.io/mayo-idweek/#/item/T047
+URL:https://idweek2026.eventscribe.net/fsPopup.asp?Mode=presInfo&Presentati
+ onID=1894808
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Development of Structured Case Management and Infectious Diseas
+ es Pharmacist Review of OPAT Orders at Hospital Discharge
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Mayo IDWeek//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:The Forgotten Valve: A 10-year Retrospective Review of the C
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:P-572@mayo-idweek
+DTSTAMP:20261014T120000Z
+DTSTART:20261024T161500Z
+DTEND:20261024T173000Z
+SUMMARY:P-572: The Forgotten Valve: A 10-year Retrospective Review of the C
+ linical Characteristics and Outcomes of Eustachian Valve Endocarditis
+LOCATION:Poster Hall B-C\, board P-572 · IDWeek 2026
+DESCRIPTION:Mayo: Julian Maamari\, Joya-Rita Hindy\, Khalid Abu-Zeinah\, Om
+ ar M. Abu Saleh\, Daniel C. DeSimone\, Guillermo Cuervo\, Larry M. Baddour
+ \, Supavit Chesdachai\nhttps://dwchal.github.io/mayo-idweek/#/item/P-572
+URL:https://idweek2026.eventscribe.net/fsPopup.asp?Mode=posterInfo&PosterID
+ =838427
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:P-572: The Forgotten Valve: A 10-year Retrospective Review of t
+ he Clinical Characteristics and Outcomes of Eustachian Valve Endocarditis
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

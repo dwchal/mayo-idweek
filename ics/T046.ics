@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Mayo IDWeek//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Antimicrobial Stewardship Efforts Directed at Improving Cefa
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:T046@mayo-idweek
+DTSTAMP:20261014T120000Z
+DTSTART:20261023T150000Z
+DTEND:20261023T151500Z
+SUMMARY:Antimicrobial Stewardship Efforts Directed at Improving Cefazolin U
+ se among Patients with Penicillin Allergy Labels Decreased Surgical Site I
+ nfections and Mortality
+LOCATION:103 AB · IDWeek 2026
+DESCRIPTION:Mayo: Sarah R. Lessard\, Viengneesee Thao\, Alexei Gonzalez-Est
+ rada\, Michael Edwards\, Steven Porter\, Kristine Hanson\, Lindsey Sangara
+ lingham\, Abinash Virk\nhttps://dwchal.github.io/mayo-idweek/#/item/T046
+URL:https://idweek2026.eventscribe.net/fsPopup.asp?Mode=presInfo&Presentati
+ onID=1894739
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Antimicrobial Stewardship Efforts Directed at Improving Cefazol
+ in Use among Patients with Penicillin Allergy Labels Decreased Surgical Si
+ te Infections and Mortality
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
