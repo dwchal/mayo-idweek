@@ -4,7 +4,7 @@ Every Mayo Clinic presentation at IDWeek 2026 (Washington, DC, October 20–24) 
 day-by-day schedule with a live "now" line, posters in board order with check-off, a Mayo people index,
 starred items, and calendar reminders.
 
-**Live:** https://dwchal.github.io/mayo-idweek/ (on iPhone: Share → Add to Home Screen)
+**Live:** https://challener.net/mayo-idweek/ (on iPhone: Share → Add to Home Screen)
 
 - Static site, no build step: `index.html`, `styles.css`, `app.js`, data in `sessions.json`.
 - Stars and visited posters are saved in the browser (localStorage). Works offline after the first visit (`sw.js`).

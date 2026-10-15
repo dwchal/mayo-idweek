@@ -10,7 +10,7 @@ import json, os, re
 from datetime import datetime, timezone
 
 ALARM_MINUTES = 10
-SITE = "https://dwchal.github.io/mayo-idweek/"
+SITE = "https://challener.net/mayo-idweek/"
 
 data = json.load(open("sessions.json", encoding="utf-8"))
 items = data["items"]
