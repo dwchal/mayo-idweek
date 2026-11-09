@@ -287,7 +287,7 @@ function thanksHero() {
         <div><b>${DATA.people.length}</b><span>Mayo people</span></div>
       </div>
       <div class="hero-sites">${sites.map(([k, n]) => `<span>${SITE_LABEL[k]} <b>${n}</b></span>`).join("")}</div>
-      <div class="hero-next">${ICON.heart}<span>See you next year at <b>IDWeek 2027</b></span></div>
+      <div class="hero-next">${ICON.heart}<div><div>See you next year at <b>IDWeek 2027</b></div><div class="hero-next-sub">Boston, MA · October 6–9, 2027</div></div></div>
     </div>
   </section>`;
 }

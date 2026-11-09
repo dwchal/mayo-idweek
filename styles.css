@@ -236,6 +236,7 @@ button { font: inherit; color: inherit; background: none; border: 0; padding: 0;
 .hero-sites span { font-size: 12px; padding: 3px 9px; border-radius: 999px; background: rgba(0,0,0,.16); }
 .hero-sites b { font-weight: 700; }
 .hero-next { position: relative; display: flex; align-items: center; gap: 8px; margin-top: 18px; padding-top: 14px; border-top: 0.5px solid rgba(255,255,255,.25); font-size: 16px; }
+.hero-next-sub { font-size: 13px; opacity: .8; margin-top: 2px; }
 .hero-next svg { width: 22px; height: 22px; fill: rgba(255,255,255,.95); stroke: none; flex: none; }
 @media (prefers-color-scheme: dark) {
   .hero-in { box-shadow: none; border: 0.5px solid rgba(255,255,255,.12); }
