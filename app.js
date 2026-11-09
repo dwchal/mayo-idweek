@@ -26,6 +26,8 @@ const clockOffset = (() => {
   return d && !isNaN(d) ? d - Date.now() : 0;
 })();
 const now = () => new Date(Date.now() + clockOffset);
+// After the last session the site becomes an archive: thank-you banner, no live/ENDED styling, no reminders.
+const isOver = () => DATA && now() >= DATA.end;
 
 // ---------- Eastern-time formatting ----------
 const fmtParts = new Intl.DateTimeFormat("en-US", { timeZone: TZ, hour: "numeric", minute: "2-digit", hour12: true });
@@ -64,6 +66,7 @@ function prepare(raw) {
     all, items, byId, children, parentOf, people,
     peopleById: new Map(people.map((p) => [p.id, p])),
     days: [...new Set(all.map((i) => i.day))].sort(),
+    end: new Date(Math.max(...all.map((i) => i.end))),
     posterDays: [...new Set(all.filter((i) => i.kind !== "talk").map((i) => i.day))].sort(),
   };
 }
@@ -143,6 +146,7 @@ const ICON = {
   cal: '<svg viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="16" rx="3"/><path d="M3 10h18M8 3v4M16 3v4M12 13v5M9.5 15.5h5"/></svg>',
   bell: '<svg viewBox="0 0 24 24"><path d="M6 16V11a6 6 0 0 1 12 0v5l1.5 2h-15z" stroke-linejoin="round"/><path d="M10 20.5a2 2 0 0 0 4 0"/></svg>',
   link: '<svg viewBox="0 0 24 24"><path d="M14 4h6v6M20 4l-9 9M18 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h5"/></svg>',
+  heart: '<svg viewBox="0 0 24 24"><path d="M12 20s-7.5-4.6-7.5-10.2A4.3 4.3 0 0 1 12 7a4.3 4.3 0 0 1 7.5 2.8C19.5 15.4 12 20 12 20z" stroke-linejoin="round"/></svg>',
   share: '<svg viewBox="0 0 24 24"><path d="M12 15V3M8 7l4-4 4 4M5 12v8h14v-8"/></svg>',
 };
 
@@ -150,6 +154,7 @@ const ICON = {
 function siteBadge(site) { return site ? `<span class="site site-${site}" title="Mayo ${SITE_LABEL[site]}">${site}</span>` : ""; }
 
 function liveTag(start, end, t = now()) {
+  if (isOver()) return "";
   if (start <= t && t < end) return '<span class="tag-now">NOW</span>';
   if (end <= t) return '<span class="tag-ended">ENDED</span>';
   return "";
@@ -186,7 +191,7 @@ function itemRow(it, { showDay = false, caption = null, t = now() } = {}) {
   const kids = DATA.children.get(it.id) || [];
   const covered = kids.length && it.mayo.every((p) => kids.some((c) => c.mayo.some((m) => m.personId === p.personId)));
   const where = showDay ? `${shortDay(it.day)} ${range(it.start, it.end)} · ${it.room}` : it.room;
-  return `<div class="row ${it.end <= t && !showDay ? "ended" : ""}">
+  return `<div class="row ${it.end <= t && !showDay && !isOver() ? "ended" : ""}">
     <a class="row-main" href="#/item/${it.id}">
       ${left}
       <div class="row-body">
@@ -220,7 +225,7 @@ function posterRow(it) {
 function blockRow(b, t = now()) {
   const done = b.hall.filter((p) => visited.has(p.id)).length;
   const stars = b.posters.filter((p) => starred.has(p.id)).map((p) => p.board);
-  return `<div class="row ${b.end <= t ? "ended" : ""}">
+  return `<div class="row ${b.end <= t && !isOver() ? "ended" : ""}">
     <a class="row-main" href="#/posters/${b.day}/from-schedule">
       <div class="time"><div class="t">${hm(b.start)}</div><div class="ap">${ampm(b.start)}</div><div class="e">–${hm(b.end)}</div></div>
       <div class="row-body">
@@ -267,7 +272,28 @@ function defaultDay() {
   return DATA.days.includes(t) ? t : DATA.days[0];
 }
 
+function thanksHero() {
+  const talks = DATA.all.filter((i) => i.kind === "talk").length;
+  const posters = DATA.all.length - talks;
+  const sites = Object.keys(SITE_LABEL).map((k) => [k, DATA.people.filter((p) => p.site === k).length]).filter(([, n]) => n);
+  return `<section class="hero" aria-labelledby="hero-h">
+    <div class="hero-in">
+      <div class="hero-eyebrow">IDWeek 2026 · Washington, DC · Oct 20–24</div>
+      <h2 id="hero-h">Thanks for visiting</h2>
+      <p>Thank you to everyone who presented, moderated, and stopped by a Mayo Clinic poster. The full program stays here so you can look back at every talk and poster.</p>
+      <div class="hero-stats">
+        <div><b>${talks}</b><span>talks</span></div>
+        <div><b>${posters}</b><span>posters</span></div>
+        <div><b>${DATA.people.length}</b><span>Mayo people</span></div>
+      </div>
+      <div class="hero-sites">${sites.map(([k, n]) => `<span>${SITE_LABEL[k]} <b>${n}</b></span>`).join("")}</div>
+      <div class="hero-next">${ICON.heart}<span>See you next year at <b>IDWeek 2027</b></span></div>
+    </div>
+  </section>`;
+}
+
 function viewSchedule(day) {
+  const landing = !day;
   ui.day = day || ui.day || defaultDay();
   const today = dayKey(now());
   const isMeeting = DATA.days.includes(today);
@@ -276,7 +302,7 @@ function viewSchedule(day) {
   const dayBtns = DATA.days.map((d) => `<a class="day" href="#/schedule/${d}" aria-current="${d === ui.day}">
       ${d === today ? '<span class="today-dot" aria-label="Today"></span>' : ""}
       <span class="dw">${shortDay(d).toUpperCase()}</span><span class="dn">${dayNum(d)}</span><span class="dc">${DATA.items.filter((i) => i.day === d).length}</span></a>`).join("");
-  return `<div class="subbar">
+  return `${landing && isOver() ? thanksHero() : ""}<div class="subbar">
       <label class="search">${ICON.search}<input id="q" type="search" placeholder="Title, name, board # or room" value="${esc(ui.query)}" autocomplete="off" enterkeyhint="search"><button class="clear" data-action="clear" ${ui.query ? "" : "hidden"} aria-label="Clear">✕</button></label>
       <div class="days" ${ui.query ? "hidden" : ""}>${dayBtns}</div>
     </div>
@@ -345,7 +371,7 @@ function viewPosters(day, fromSchedule) {
         <div class="progress wide"><i style="width:${(100 * done) / Math.max(b.hall.length, 1)}%"></i></div>
       </div>
       ${hall.length ? `<div class="section-head">In the hall · board order</div><div class="card">${hall.map(posterRow).join("")}</div>
-        <p class="section-foot">Tap the circle to check off a poster as you visit it.</p>` : ""}
+        ${isOver() ? "" : `<p class="section-foot">Tap the circle to check off a poster as you visit it.</p>`}` : ""}
       ${virt.length ? `<div class="section-head">Virtual · online only</div><div class="card">${virt.map(posterRow).join("")}</div>
         <p class="section-foot">View virtual posters in the IDWeek app or website.</p>` : ""}
       ${!hall.length && !virt.length ? `<div class="empty">${q ? `No posters match “${esc(q)}”.` : "All visited. Nice work."}</div>` : ""}
@@ -375,7 +401,10 @@ function viewMine() {
   setChrome({ title: "My Schedule", tab: "mine" });
   const mine = DATA.items.filter((i) => starred.has(i.id));
   const subscribe = `webcal://${location.host}${location.pathname.replace(/[^/]*$/, "")}${CAL_ALL}`;
-  let html = `<div class="page">
+  let html = isOver() ? `<div class="page">
+    <div class="section-head"></div>
+    <div class="card pad"><div class="info">${ICON.star}<div><h3>Your picks from IDWeek 2026</h3>
+      <p>Everything you starred is saved on this device, so you can come back to it anytime.</p></div></div></div>` : `<div class="page">
     <div class="section-head">Reminders</div>
     <div class="card pad">
       <div class="info">${ICON.bell}<div><h3>Get alerts on your phone</h3>
@@ -437,11 +466,11 @@ function viewItem(id) {
     <div class="card">
       <button class="action" data-star="${it.id}">${ICON.star}${starred.has(it.id) ? "Remove from My Schedule" : "Add to My Schedule"}</button>
       ${it.kind === "poster" ? `<button class="action" data-visit="${it.id}">${ICON.check}${visited.has(it.id) ? "Visited ✓ (tap to undo)" : "Mark as visited"}</button>` : ""}
-      <a class="action" href="ics/${it.id}.ics">${ICON.cal}Add to Calendar (10-min alert)</a>
+      ${isOver() ? "" : `<a class="action" href="ics/${it.id}.ics">${ICON.cal}Add to Calendar (10-min alert)</a>`}
       ${it.url ? `<a class="action" href="${esc(it.url)}" target="_blank" rel="noopener">${ICON.link}Open in IDWeek planner</a>` : ""}
       <button class="action" data-share="${it.id}">${ICON.share}Share</button>
     </div>
-    <p class="section-foot">Rooms and times can change. Check the IDWeek app before you go.</p>
+    ${isOver() ? "" : `<p class="section-foot">Rooms and times can change. Check the IDWeek app before you go.</p>`}
   </div>`;
 }
 

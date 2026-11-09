@@ -1,5 +1,5 @@
 // Offline support: serve from cache, refresh in the background (stale-while-revalidate).
-const CACHE = "mayo-idweek-v1";
+const CACHE = "mayo-idweek-v2";
 const SHELL = ["./", "index.html", "styles.css", "app.js", "sessions.json", "manifest.webmanifest",
                "icons/apple-touch-icon.png", "icons/icon-192.png", "icons/favicon-32.png"];
 

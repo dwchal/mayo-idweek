@@ -209,6 +209,38 @@ button { font: inherit; color: inherit; background: none; border: 0; padding: 0;
 .toast { position: fixed; left: 50%; bottom: calc(84px + env(safe-area-inset-bottom)); transform: translateX(-50%); background: rgba(30,30,32,.92); color: #fff; padding: 9px 16px; border-radius: 999px; font-size: 14px; z-index: 30; }
 .noscript { padding: 40px; text-align: center; }
 
+/* ---- post-meeting thank-you hero ---- */
+.hero { padding: 12px 16px 4px; }
+.hero-in {
+  position: relative; overflow: hidden; max-width: 688px; margin: 0 auto;
+  padding: 26px 22px 20px; border-radius: 20px; color: #fff;
+  background:
+    radial-gradient(120% 90% at 100% 0%, rgba(120, 190, 255, .45), transparent 55%),
+    radial-gradient(90% 80% at 0% 100%, rgba(0, 30, 90, .55), transparent 60%),
+    linear-gradient(150deg, #0a67d0 0%, #0057b8 45%, #003a80 100%);
+  box-shadow: 0 10px 30px -12px rgba(0, 58, 128, .55);
+}
+.hero-in::before, .hero-in::after {
+  content: ""; position: absolute; border-radius: 50%; border: 1.5px solid rgba(255,255,255,.14); pointer-events: none;
+}
+.hero-in::before { width: 260px; height: 260px; right: -90px; top: -110px; }
+.hero-in::after { width: 170px; height: 170px; right: -30px; top: -50px; }
+.hero-eyebrow { position: relative; font-size: 12px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; opacity: .85; }
+.hero h2 { position: relative; margin: 8px 0 8px; font-size: clamp(28px, 7.5vw, 38px); line-height: 1.05; letter-spacing: -.02em; font-weight: 800; }
+.hero p { position: relative; margin: 0; max-width: 34em; font-size: 15px; line-height: 1.45; opacity: .92; }
+.hero-stats { position: relative; display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; margin: 18px 0 12px; }
+.hero-stats div { background: rgba(255,255,255,.13); border: 0.5px solid rgba(255,255,255,.18); border-radius: 12px; padding: 10px 6px; text-align: center; }
+.hero-stats b { display: block; font-size: 24px; font-weight: 800; font-variant-numeric: tabular-nums; line-height: 1.1; }
+.hero-stats span { font-size: 12px; opacity: .85; }
+.hero-sites { position: relative; display: flex; flex-wrap: wrap; gap: 6px; }
+.hero-sites span { font-size: 12px; padding: 3px 9px; border-radius: 999px; background: rgba(0,0,0,.16); }
+.hero-sites b { font-weight: 700; }
+.hero-next { position: relative; display: flex; align-items: center; gap: 8px; margin-top: 18px; padding-top: 14px; border-top: 0.5px solid rgba(255,255,255,.25); font-size: 16px; }
+.hero-next svg { width: 22px; height: 22px; fill: rgba(255,255,255,.95); stroke: none; flex: none; }
+@media (prefers-color-scheme: dark) {
+  .hero-in { box-shadow: none; border: 0.5px solid rgba(255,255,255,.12); }
+}
+
 /* ---- tab bar ---- */
 .tabbar {
   position: fixed; left: 0; right: 0; bottom: 0; z-index: 20;

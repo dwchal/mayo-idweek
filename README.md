@@ -24,4 +24,7 @@ git commit -am "Update schedule" && git push
 
 Test mid-conference behaviour locally with `?now=2026-10-22T10:20:00-04:00`.
 
+After the last session ends the site switches itself to archive mode (`isOver()` in `app.js`): a thank-you
+banner on the Schedule landing page, no NOW/ENDED dimming, and no calendar/reminder buttons.
+
 Schedule data comes from the public IDWeek 2026 planner. Not an official Mayo Clinic or IDWeek product.
